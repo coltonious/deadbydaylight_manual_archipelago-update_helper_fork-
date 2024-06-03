@@ -1,0 +1,15 @@
+{
+  "game": "DeadByDaylight-Killer-C32",
+  "creator": "nivomi",
+  "filler_item_name": "-1 Hook Required For Victory",
+  "starting_items": [
+    {
+      "item_categories": ["Killer"],
+      "random": 1
+    },
+    {
+      "item_categories": ["Perk"],
+      "random": 3
+    }
+  ]
+}

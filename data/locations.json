@@ -1,0 +1,2046 @@
+[
+    {
+        "name": "A Nurse's Calling Victory",
+        "category": [
+            "Perk",
+            "Nurse, The"
+        ],
+        "requires": [
+            "A Nurse's Calling"
+        ]
+    },
+    {
+        "name": "Agitation Victory",
+        "category": [
+            "Perk",
+            "Trapper, The"
+        ],
+        "requires": [
+            "Agitation"
+        ]
+    },
+    {
+        "name": "Alien Instinct Victory",
+        "category": [
+            "Perk",
+            "Xenomorph, The"
+        ],
+        "requires": [
+            "Alien Instinct"
+        ]
+    },
+    {
+        "name": "Awakened Awareness Victory",
+        "category": [
+            "Perk",
+            "Mastermind, The"
+        ],
+        "requires": [
+            "Awakened Awareness"
+        ]
+    },
+    {
+        "name": "Bamboozle Victory",
+        "category": [
+            "Perk",
+            "Clown, The"
+        ],
+        "requires": [
+            "Bamboozle"
+        ]
+    },
+    {
+        "name": "Barbecue & Chilli Victory",
+        "category": [
+            "Perk",
+            "Cannibal, The"
+        ],
+        "requires": [
+            "Barbecue & Chilli"
+        ]
+    },
+    {
+        "name": "Batteries Included Victory",
+        "category": [
+            "Perk",
+            "Good Guy, The"
+        ],
+        "requires": [
+            "Batteries Included"
+        ]
+    },
+    {
+        "name": "Beast of Prey Victory",
+        "category": [
+            "Perk",
+            "Huntress, The"
+        ],
+        "requires": [
+            "Beast of Prey"
+        ]
+    },
+    {
+        "name": "Bitter Murmur Victory",
+        "category": [
+            "Perk",
+            "Base Perks"
+        ],
+        "requires": [
+            "Bitter Murmur"
+        ]
+    },
+    {
+        "name": "Blood Echo Victory",
+        "category": [
+            "Perk",
+            "Oni, The"
+        ],
+        "requires": [
+            "Blood Echo"
+        ]
+    },
+    {
+        "name": "Blood Warden Victory",
+        "category": [
+            "Perk",
+            "Nightmare, The"
+        ],
+        "requires": [
+            "Blood Warden"
+        ]
+    },
+    {
+        "name": "Bloodhound Victory",
+        "category": [
+            "Perk",
+            "Wraith, The"
+        ],
+        "requires": [
+            "Bloodhound"
+        ]
+    },
+    {
+        "name": "Brutal Strength Victory",
+        "category": [
+            "Perk",
+            "Trapper, The"
+        ],
+        "requires": [
+            "Brutal Strength"
+        ]
+    },
+    {
+        "name": "Call of Brine Victory",
+        "category": [
+            "Perk",
+            "Onryo, The"
+        ],
+        "requires": [
+            "Call of Brine"
+        ]
+    },
+    {
+        "name": "Corrupt Intervention Victory",
+        "category": [
+            "Perk",
+            "Plague, The"
+        ],
+        "requires": [
+            "Corrupt Intervention"
+        ]
+    },
+    {
+        "name": "Coulrophobia Victory",
+        "category": [
+            "Perk",
+            "Clown, The"
+        ],
+        "requires": [
+            "Coulrophobia"
+        ]
+    },
+    {
+        "name": "Coup de Grace Victory",
+        "category": [
+            "Perk",
+            "Twins, The"
+        ],
+        "requires": [
+            "Coup de Grace"
+        ]
+    },
+    {
+        "name": "Cruel Limits Victory",
+        "category": [
+            "Perk",
+            "Demogorgon, The"
+        ],
+        "requires": [
+            "Cruel Limits"
+        ]
+    },
+    {
+        "name": "Dark Arrogance Victory",
+        "category": [
+            "Perk",
+            "Lich, The"
+        ],
+        "requires": [
+            "Dark Arrogance"
+        ]
+    },
+    {
+        "name": "Dark Devotion Victory",
+        "category": [
+            "Perk",
+            "Plague, The"
+        ],
+        "requires": [
+            "Dark Devotion"
+        ]
+    },
+    {
+        "name": "Darkness Revealed Victory",
+        "category": [
+            "Perk",
+            "Dredge, The"
+        ],
+        "requires": [
+            "Darkness Revealed"
+        ]
+    },
+    {
+        "name": "Dead Man's Switch Victory",
+        "category": [
+            "Perk",
+            "Deathslinger, The"
+        ],
+        "requires": [
+            "Dead Man's Switch"
+        ]
+    },
+    {
+        "name": "Deadlock Victory",
+        "category": [
+            "Perk",
+            "Cenobite, The"
+        ],
+        "requires": [
+            "Deadlock"
+        ]
+    },
+    {
+        "name": "Deathbound Victory",
+        "category": [
+            "Perk",
+            "Executioner, The"
+        ],
+        "requires": [
+            "Deathbound"
+        ]
+    },
+    {
+        "name": "Deerstalker Victory",
+        "category": [
+            "Perk",
+            "Base Perks"
+        ],
+        "requires": [
+            "Deerstalker"
+        ]
+    },
+    {
+        "name": "Discordance Victory",
+        "category": [
+            "Perk",
+            "Legion, The"
+        ],
+        "requires": [
+            "Discordance"
+        ]
+    },
+    {
+        "name": "Dissolution Victory",
+        "category": [
+            "Perk",
+            "Dredge, The"
+        ],
+        "requires": [
+            "Dissolution"
+        ]
+    },
+    {
+        "name": "Distressing Victory",
+        "category": [
+            "Perk",
+            "Base Perks"
+        ],
+        "requires": [
+            "Distressing"
+        ]
+    },
+    {
+        "name": "Dragon's Grip Victory",
+        "category": [
+            "Perk",
+            "Blight, The"
+        ],
+        "requires": [
+            "Dragon's Grip"
+        ]
+    },
+    {
+        "name": "Dying Light Victory",
+        "category": [
+            "Perk",
+            "Shape, The"
+        ],
+        "requires": [
+            "Dying Light"
+        ]
+    },
+    {
+        "name": "Enduring Victory",
+        "category": [
+            "Perk",
+            "Hillbilly, The"
+        ],
+        "requires": [
+            "Enduring"
+        ]
+    },
+    {
+        "name": "Entity Pleased",
+        "category": "Master Enough Killers",
+        "requires": "{hasEnoughWins()}",
+        "victory": true
+    },
+    {
+        "name": "Eruption Victory",
+        "category": [
+            "Perk",
+            "Nemesis, The"
+        ],
+        "requires": [
+            "Eruption"
+        ]
+    },
+    {
+        "name": "Fire Up Victory",
+        "category": [
+            "Perk",
+            "Nightmare, The"
+        ],
+        "requires": [
+            "Fire Up"
+        ]
+    },
+    {
+        "name": "Floods of Rage Victory",
+        "category": [
+            "Perk",
+            "Onryo, The"
+        ],
+        "requires": [
+            "Floods of Rage"
+        ]
+    },
+    {
+        "name": "Forced Hesitation Victory",
+        "category": [
+            "Perk",
+            "Singularity, The"
+        ],
+        "requires": [
+            "Forced Hesitation"
+        ]
+    },
+    {
+        "name": "Forced Penance Victory",
+        "category": [
+            "Perk",
+            "Executioner, The"
+        ],
+        "requires": [
+            "Forced Penance"
+        ]
+    },
+    {
+        "name": "Franklin's Demise Victory",
+        "category": [
+            "Perk",
+            "Cannibal, The"
+        ],
+        "requires": [
+            "Franklin's Demise"
+        ]
+    },
+    {
+        "name": "Friends 'til the End Victory",
+        "category": [
+            "Perk",
+            "Good Guy, The"
+        ],
+        "requires": [
+            "Friends 'til the End"
+        ]
+    },
+    {
+        "name": "Furitive Chase Victory",
+        "category": [
+            "Perk",
+            "Ghost Face, The"
+        ],
+        "requires": [
+            "Furitive Chase"
+        ]
+    },
+    {
+        "name": "Game Afoot Victory",
+        "category": [
+            "Perk",
+            "Skull Merchant, The"
+        ],
+        "requires": [
+            "Game Afoot"
+        ]
+    },
+    {
+        "name": "Gearhead Victory",
+        "category": [
+            "Perk",
+            "Deathslinger, The"
+        ],
+        "requires": [
+            "Gearhead"
+        ]
+    },
+    {
+        "name": "Genetic Limits Victory",
+        "category": [
+            "Perk",
+            "Singularity, The"
+        ],
+        "requires": [
+            "Genetic Limits"
+        ]
+    },
+    {
+        "name": "Gift of Pain Victory",
+        "category": [
+            "Perk",
+            "Cenobite, The"
+        ],
+        "requires": [
+            "Gift of Pain"
+        ]
+    },
+    {
+        "name": "Grim Embrace Victory",
+        "category": [
+            "Perk",
+            "Artist, The"
+        ],
+        "requires": [
+            "Grim Embrace"
+        ]
+    },
+    {
+        "name": "Hangman's Trick Victory",
+        "category": [
+            "Perk",
+            "Pig, The"
+        ],
+        "requires": [
+            "Hangman's Trick"
+        ]
+    },
+    {
+        "name": "Hex - Blood Favor Victory",
+        "category": [
+            "Perk",
+            "Blight, The"
+        ],
+        "requires": [
+            "Hex - Blood Favor"
+        ]
+    },
+    {
+        "name": "Hex - Crowd Control Victory",
+        "category": [
+            "Perk",
+            "Trickster, The"
+        ],
+        "requires": [
+            "Hex - Crowd Control"
+        ]
+    },
+    {
+        "name": "Hex - Devour Hope Victory",
+        "category": [
+            "Perk",
+            "Hag, The"
+        ],
+        "requires": [
+            "Hex - Devour Hope"
+        ]
+    },
+    {
+        "name": "Hex - Face the Darkness Victory",
+        "category": [
+            "Perk",
+            "Knight, The"
+        ],
+        "requires": [
+            "Hex - Face the Darkness"
+        ]
+    },
+    {
+        "name": "Hex - Haunted Ground Victory",
+        "category": [
+            "Perk",
+            "Spirit, The"
+        ],
+        "requires": [
+            "Hex - Haunted Ground"
+        ]
+    },
+    {
+        "name": "Hex - Huntress Lullaby Victory",
+        "category": [
+            "Perk",
+            "Huntress, The"
+        ],
+        "requires": [
+            "Hex - Huntress Lullaby"
+        ]
+    },
+    {
+        "name": "Hex - No One Escapes Death Victory",
+        "category": [
+            "Perk",
+            "Base Perks"
+        ],
+        "requires": [
+            "Hex - No One Escapes Death"
+        ]
+    },
+    {
+        "name": "Hex - Pentimento Victory",
+        "category": [
+            "Perk",
+            "Artist, The"
+        ],
+        "requires": [
+            "Hex - Pentimento"
+        ]
+    },
+    {
+        "name": "Hex - Plaything Victory",
+        "category": [
+            "Perk",
+            "Cenobite, The"
+        ],
+        "requires": [
+            "Hex - Plaything"
+        ]
+    },
+    {
+        "name": "Hex - Retribution Victory",
+        "category": [
+            "Perk",
+            "Deathslinger, The"
+        ],
+        "requires": [
+            "Hex - Retribution"
+        ]
+    },
+    {
+        "name": "Hex - Ruin Victory",
+        "category": [
+            "Perk",
+            "Hag, The"
+        ],
+        "requires": [
+            "Hex - Ruin"
+        ]
+    },
+    {
+        "name": "Hex - The Third Seal Victory",
+        "category": [
+            "Perk",
+            "Hag, The"
+        ],
+        "requires": [
+            "Hex - The Third Seal"
+        ]
+    },
+    {
+        "name": "Hex - Thrill of the Hunt Victory",
+        "category": [
+            "Perk",
+            "Base Perks"
+        ],
+        "requires": [
+            "Hex - Thrill of the Hunt"
+        ]
+    },
+    {
+        "name": "Hex - Two Can Play Victory",
+        "category": [
+            "Perk",
+            "Good Guy, The"
+        ],
+        "requires": [
+            "Hex - Two Can Play"
+        ]
+    },
+    {
+        "name": "Hex - Undying Victory",
+        "category": [
+            "Perk",
+            "Blight, The"
+        ],
+        "requires": [
+            "Hex - Undying"
+        ]
+    },
+    {
+        "name": "Hoarder Victory",
+        "category": [
+            "Perk",
+            "Twins, The"
+        ],
+        "requires": [
+            "Hoarder"
+        ]
+    },
+    {
+        "name": "Hubris Victory",
+        "category": [
+            "Perk",
+            "Knight, The"
+        ],
+        "requires": [
+            "Hubris"
+        ]
+    },
+    {
+        "name": "Hysteria Victory",
+        "category": [
+            "Perk",
+            "Nemesis, The"
+        ],
+        "requires": [
+            "Hysteria"
+        ]
+    },
+    {
+        "name": "I'm All Ears Victory",
+        "category": [
+            "Perk",
+            "Ghost Face, The"
+        ],
+        "requires": [
+            "I'm All Ears"
+        ]
+    },
+    {
+        "name": "Infectious Fright Victory",
+        "category": [
+            "Perk",
+            "Plague, The"
+        ],
+        "requires": [
+            "Infectious Fright"
+        ]
+    },
+    {
+        "name": "Insidious Victory",
+        "category": [
+            "Perk",
+            "Base Perks"
+        ],
+        "requires": [
+            "Insidious"
+        ]
+    },
+    {
+        "name": "Iron Grasp Victory",
+        "category": [
+            "Perk",
+            "Base Perks"
+        ],
+        "requires": [
+            "Iron Grasp"
+        ]
+    },
+    {
+        "name": "Iron Maiden Victory",
+        "category": [
+            "Perk",
+            "Legion, The"
+        ],
+        "requires": [
+            "Iron Maiden"
+        ]
+    },
+    {
+        "name": "Knockout Victory",
+        "category": [
+            "Perk",
+            "Cannibal, The"
+        ],
+        "requires": [
+            "Knockout"
+        ]
+    },
+    {
+        "name": "Languid Touch Victory",
+        "category": [
+            "Perk",
+            "Lich, The"
+        ],
+        "requires": [
+            "Languid Touch"
+        ]
+    },
+    {
+        "name": "Lethal Pursuer Victory",
+        "category": [
+            "Perk",
+            "Nemesis, The"
+        ],
+        "requires": [
+            "Lethal Pursuer"
+        ]
+    },
+    {
+        "name": "Leverage Victory",
+        "category": [
+            "Perk",
+            "Skull Merchant, The"
+        ],
+        "requires": [
+            "Leverage"
+        ]
+    },
+    {
+        "name": "Lightborn Victory",
+        "category": [
+            "Perk",
+            "Hillbilly, The"
+        ],
+        "requires": [
+            "Lightborn"
+        ]
+    },
+    {
+        "name": "Machine Learning Victory",
+        "category": [
+            "Perk",
+            "Singularity, The"
+        ],
+        "requires": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "name": "Mad Grit Victory",
+        "category": [
+            "Perk",
+            "Legion, The"
+        ],
+        "requires": [
+            "Mad Grit"
+        ]
+    },
+    {
+        "name": "Make Your Choice Victory",
+        "category": [
+            "Perk",
+            "Pig, The"
+        ],
+        "requires": [
+            "Make Your Choice"
+        ]
+    },
+    {
+        "name": "Merciless Storm Victory",
+        "category": [
+            "Perk",
+            "Onryo, The"
+        ],
+        "requires": [
+            "Merciless Storm"
+        ]
+    },
+    {
+        "name": "Mindbreaker Victory",
+        "category": [
+            "Perk",
+            "Demogorgon, The"
+        ],
+        "requires": [
+            "Mindbreaker"
+        ]
+    },
+    {
+        "name": "Monitor & Abuse Victory",
+        "category": [
+            "Perk",
+            "Doctor, The"
+        ],
+        "requires": [
+            "Monitor & Abuse"
+        ]
+    },
+    {
+        "name": "Nemesis Victory",
+        "category": [
+            "Perk",
+            "Oni, The"
+        ],
+        "requires": [
+            "Nemesis"
+        ]
+    },
+    {
+        "name": "No Way Out Victory",
+        "category": [
+            "Perk",
+            "Trickster, The"
+        ],
+        "requires": [
+            "No Way Out"
+        ]
+    },
+    {
+        "name": "Nowhere to Hide Victory",
+        "category": [
+            "Perk",
+            "Knight, The"
+        ],
+        "requires": [
+            "Nowhere to Hide"
+        ]
+    },
+    {
+        "name": "Oppression Victory",
+        "category": [
+            "Perk",
+            "Twins, The"
+        ],
+        "requires": [
+            "Oppression"
+        ]
+    },
+    {
+        "name": "Overcharge Victory",
+        "category": [
+            "Perk",
+            "Doctor, The"
+        ],
+        "requires": [
+            "Overcharge"
+        ]
+    },
+    {
+        "name": "Overwhelming Presence Victory",
+        "category": [
+            "Perk",
+            "Doctor, The"
+        ],
+        "requires": [
+            "Overwhelming Presence"
+        ]
+    },
+    {
+        "name": "Pain Resonance Victory",
+        "category": [
+            "Perk",
+            "Artist, The"
+        ],
+        "requires": [
+            "Pain Resonance"
+        ]
+    },
+    {
+        "name": "Play With Your Food Victory",
+        "category": [
+            "Perk",
+            "Shape, The"
+        ],
+        "requires": [
+            "Play With Your Food"
+        ]
+    },
+    {
+        "name": "Pop Goes The Weasel Victory",
+        "category": [
+            "Perk",
+            "Clown, The"
+        ],
+        "requires": [
+            "Pop Goes The Weasel"
+        ]
+    },
+    {
+        "name": "Predator Victory",
+        "category": [
+            "Perk",
+            "Wraith, The"
+        ],
+        "requires": [
+            "Predator"
+        ]
+    },
+    {
+        "name": "Rancor Victory",
+        "category": [
+            "Perk",
+            "Spirit, The"
+        ],
+        "requires": [
+            "Rancor"
+        ]
+    },
+    {
+        "name": "Rapid Brutality Victory",
+        "category": [
+            "Perk",
+            "Xenomorph, The"
+        ],
+        "requires": [
+            "Rapid Brutality"
+        ]
+    },
+    {
+        "name": "Remember Me Victory",
+        "category": [
+            "Perk",
+            "Nightmare, The"
+        ],
+        "requires": [
+            "Remember Me"
+        ]
+    },
+    {
+        "name": "Save the Best for Last Victory",
+        "category": [
+            "Perk",
+            "Shape, The"
+        ],
+        "requires": [
+            "Save the Best for Last"
+        ]
+    },
+    {
+        "name": "Scourge Hook - Monstrous Shrine Victory",
+        "category": [
+            "Perk",
+            "Base Perks"
+        ],
+        "requires": [
+            "Scourge Hook - Monstrous Shrine"
+        ]
+    },
+    {
+        "name": "Septic Touch Victory",
+        "category": [
+            "Perk",
+            "Dredge, The"
+        ],
+        "requires": [
+            "Septic Touch"
+        ]
+    },
+    {
+        "name": "Shadowborn Victory",
+        "category": [
+            "Perk",
+            "Wraith, The"
+        ],
+        "requires": [
+            "Shadowborn"
+        ]
+    },
+    {
+        "name": "Shattered Hope Victory",
+        "category": [
+            "Perk",
+            "Base Perks"
+        ],
+        "requires": [
+            "Shattered Hope"
+        ]
+    },
+    {
+        "name": "Sloppy Butcher Victory",
+        "category": [
+            "Perk",
+            "Base Perks"
+        ],
+        "requires": [
+            "Sloppy Butcher"
+        ]
+    },
+    {
+        "name": "Spies from the Shadows Victory",
+        "category": [
+            "Perk",
+            "Base Perks"
+        ],
+        "requires": [
+            "Spies from the Shadows"
+        ]
+    },
+    {
+        "name": "Spirit Fury Victory",
+        "category": [
+            "Perk",
+            "Spirit, The"
+        ],
+        "requires": [
+            "Spirit Fury"
+        ]
+    },
+    {
+        "name": "Starstruck Victory",
+        "category": [
+            "Perk",
+            "Trickster, The"
+        ],
+        "requires": [
+            "Starstruck"
+        ]
+    },
+    {
+        "name": "Stridor Victory",
+        "category": [
+            "Perk",
+            "Nurse, The"
+        ],
+        "requires": [
+            "Stridor"
+        ]
+    },
+    {
+        "name": "Superior Anatomy Victory",
+        "category": [
+            "Perk",
+            "Mastermind, The"
+        ],
+        "requires": [
+            "Superior Anatomy"
+        ]
+    },
+    {
+        "name": "Surge Victory",
+        "category": [
+            "Perk",
+            "Demogorgon, The"
+        ],
+        "requires": [
+            "Surge"
+        ]
+    },
+    {
+        "name": "Surveillance Victory",
+        "category": [
+            "Perk",
+            "Pig, The"
+        ],
+        "requires": [
+            "Surveillance"
+        ]
+    },
+    {
+        "name": "THWACK! Victory",
+        "category": [
+            "Perk",
+            "Skull Merchant, The"
+        ],
+        "requires": [
+            "THWACK!"
+        ]
+    },
+    {
+        "name": "Terminus Victory",
+        "category": [
+            "Perk",
+            "Mastermind, The"
+        ],
+        "requires": [
+            "Terminus"
+        ]
+    },
+    {
+        "name": "Territorial Imperative Victory",
+        "category": [
+            "Perk",
+            "Huntress, The"
+        ],
+        "requires": [
+            "Territorial Imperative"
+        ]
+    },
+    {
+        "name": "Thanatophobia Victory",
+        "category": [
+            "Perk",
+            "Nurse, The"
+        ],
+        "requires": [
+            "Thanatophobia"
+        ]
+    },
+    {
+        "name": "The Artist Victory",
+        "category": [
+            "Killer",
+            "Artist, The"
+        ],
+        "requires": [
+            "The Artist"
+        ]
+    },
+    {
+        "name": "The Artist Victory Token",
+        "category": [
+            "Killer",
+            "Artist, The"
+        ],
+        "requires": [
+            "The Artist"
+        ],
+        "place_item": [
+            "The Artist Victory Token"
+        ]
+    },
+    {
+        "name": "The Blight Victory",
+        "category": [
+            "Killer",
+            "Blight, The"
+        ],
+        "requires": [
+            "The Blight"
+        ]
+    },
+    {
+        "name": "The Blight Victory Token",
+        "category": [
+            "Killer",
+            "Blight, The"
+        ],
+        "requires": [
+            "The Blight"
+        ],
+        "place_item": [
+            "The Blight Victory Token"
+        ]
+    },
+    {
+        "name": "The Cannibal Victory",
+        "category": [
+            "Killer",
+            "Cannibal, The"
+        ],
+        "requires": [
+            "The Cannibal"
+        ]
+    },
+    {
+        "name": "The Cannibal Victory Token",
+        "category": [
+            "Killer",
+            "Cannibal, The"
+        ],
+        "requires": [
+            "The Cannibal"
+        ],
+        "place_item": [
+            "The Cannibal Victory Token"
+        ]
+    },
+    {
+        "name": "The Cenobite Victory",
+        "category": [
+            "Killer",
+            "Cenobite, The"
+        ],
+        "requires": [
+            "The Cenobite"
+        ]
+    },
+    {
+        "name": "The Cenobite Victory Token",
+        "category": [
+            "Killer",
+            "Cenobite, The"
+        ],
+        "requires": [
+            "The Cenobite"
+        ],
+        "place_item": [
+            "The Cenobite Victory Token"
+        ]
+    },
+    {
+        "name": "The Clown Victory",
+        "category": [
+            "Killer",
+            "Clown, The"
+        ],
+        "requires": [
+            "The Clown"
+        ]
+    },
+    {
+        "name": "The Clown Victory Token",
+        "category": [
+            "Killer",
+            "Clown, The"
+        ],
+        "requires": [
+            "The Clown"
+        ],
+        "place_item": [
+            "The Clown Victory Token"
+        ]
+    },
+    {
+        "name": "The Deathslinger Victory",
+        "category": [
+            "Killer",
+            "Deathslinger, The"
+        ],
+        "requires": [
+            "The Deathslinger"
+        ]
+    },
+    {
+        "name": "The Deathslinger Victory Token",
+        "category": [
+            "Killer",
+            "Deathslinger, The"
+        ],
+        "requires": [
+            "The Deathslinger"
+        ],
+        "place_item": [
+            "The Deathslinger Victory Token"
+        ]
+    },
+    {
+        "name": "The Demogorgon Victory",
+        "category": [
+            "Killer",
+            "Demogorgon, The"
+        ],
+        "requires": [
+            "The Demogorgon"
+        ]
+    },
+    {
+        "name": "The Demogorgon Victory Token",
+        "category": [
+            "Killer",
+            "Demogorgon, The"
+        ],
+        "requires": [
+            "The Demogorgon"
+        ],
+        "place_item": [
+            "The Demogorgon Victory Token"
+        ]
+    },
+    {
+        "name": "The Doctor Victory",
+        "category": [
+            "Killer",
+            "Doctor, The"
+        ],
+        "requires": [
+            "The Doctor"
+        ]
+    },
+    {
+        "name": "The Doctor Victory Token",
+        "category": [
+            "Killer",
+            "Doctor, The"
+        ],
+        "requires": [
+            "The Doctor"
+        ],
+        "place_item": [
+            "The Doctor Victory Token"
+        ]
+    },
+    {
+        "name": "The Dredge Victory",
+        "category": [
+            "Killer",
+            "Dredge, The"
+        ],
+        "requires": [
+            "The Dredge"
+        ]
+    },
+    {
+        "name": "The Dredge Victory Token",
+        "category": [
+            "Killer",
+            "Dredge, The"
+        ],
+        "requires": [
+            "The Dredge"
+        ],
+        "place_item": [
+            "The Dredge Victory Token"
+        ]
+    },
+    {
+        "name": "The Executioner Victory",
+        "category": [
+            "Killer",
+            "Executioner, The"
+        ],
+        "requires": [
+            "The Executioner"
+        ]
+    },
+    {
+        "name": "The Executioner Victory Token",
+        "category": [
+            "Killer",
+            "Executioner, The"
+        ],
+        "requires": [
+            "The Executioner"
+        ],
+        "place_item": [
+            "The Executioner Victory Token"
+        ]
+    },
+    {
+        "name": "The Ghost Face Victory",
+        "category": [
+            "Killer",
+            "Ghost Face, The"
+        ],
+        "requires": [
+            "The Ghost Face"
+        ]
+    },
+    {
+        "name": "The Ghost Face Victory Token",
+        "category": [
+            "Killer",
+            "Ghost Face, The"
+        ],
+        "requires": [
+            "The Ghost Face"
+        ],
+        "place_item": [
+            "The Ghost Face Victory Token"
+        ]
+    },
+    {
+        "name": "The Good Guy Victory",
+        "category": [
+            "Killer",
+            "Good Guy, The"
+        ],
+        "requires": [
+            "The Good Guy"
+        ]
+    },
+    {
+        "name": "The Good Guy Victory Token",
+        "category": [
+            "Killer",
+            "Good Guy, The"
+        ],
+        "requires": [
+            "The Good Guy"
+        ],
+        "place_item": [
+            "The Good Guy Victory Token"
+        ]
+    },
+    {
+        "name": "The Hag Victory",
+        "category": [
+            "Killer",
+            "Hag, The"
+        ],
+        "requires": [
+            "The Hag"
+        ]
+    },
+    {
+        "name": "The Hag Victory Token",
+        "category": [
+            "Killer",
+            "Hag, The"
+        ],
+        "requires": [
+            "The Hag"
+        ],
+        "place_item": [
+            "The Hag Victory Token"
+        ]
+    },
+    {
+        "name": "The Hillbilly Victory",
+        "category": [
+            "Killer",
+            "Hillbilly, The"
+        ],
+        "requires": [
+            "The Hillbilly"
+        ]
+    },
+    {
+        "name": "The Hillbilly Victory Token",
+        "category": [
+            "Killer",
+            "Hillbilly, The"
+        ],
+        "requires": [
+            "The Hillbilly"
+        ],
+        "place_item": [
+            "The Hillbilly Victory Token"
+        ]
+    },
+    {
+        "name": "The Huntress Victory",
+        "category": [
+            "Killer",
+            "Huntress, The"
+        ],
+        "requires": [
+            "The Huntress"
+        ]
+    },
+    {
+        "name": "The Huntress Victory Token",
+        "category": [
+            "Killer",
+            "Huntress, The"
+        ],
+        "requires": [
+            "The Huntress"
+        ],
+        "place_item": [
+            "The Huntress Victory Token"
+        ]
+    },
+    {
+        "name": "The Knight Victory",
+        "category": [
+            "Killer",
+            "Knight, The"
+        ],
+        "requires": [
+            "The Knight"
+        ]
+    },
+    {
+        "name": "The Knight Victory Token",
+        "category": [
+            "Killer",
+            "Knight, The"
+        ],
+        "requires": [
+            "The Knight"
+        ],
+        "place_item": [
+            "The Knight Victory Token"
+        ]
+    },
+    {
+        "name": "The Legion Victory",
+        "category": [
+            "Killer",
+            "Legion, The"
+        ],
+        "requires": [
+            "The Legion"
+        ]
+    },
+    {
+        "name": "The Legion Victory Token",
+        "category": [
+            "Killer",
+            "Legion, The"
+        ],
+        "requires": [
+            "The Legion"
+        ],
+        "place_item": [
+            "The Legion Victory Token"
+        ]
+    },
+    {
+        "name": "The Lich Victory",
+        "category": [
+            "Killer",
+            "Lich, The"
+        ],
+        "requires": [
+            "The Lich"
+        ]
+    },
+    {
+        "name": "The Lich Victory Token",
+        "category": [
+            "Killer",
+            "Lich, The"
+        ],
+        "requires": [
+            "The Lich"
+        ],
+        "place_item": [
+            "The Lich Victory Token"
+        ]
+    },
+    {
+        "name": "The Mastermind Victory",
+        "category": [
+            "Killer",
+            "Mastermind, The"
+        ],
+        "requires": [
+            "The Mastermind"
+        ]
+    },
+    {
+        "name": "The Mastermind Victory Token",
+        "category": [
+            "Killer",
+            "Mastermind, The"
+        ],
+        "requires": [
+            "The Mastermind"
+        ],
+        "place_item": [
+            "The Mastermind Victory Token"
+        ]
+    },
+    {
+        "name": "The Nemesis Victory",
+        "category": [
+            "Killer",
+            "Nemesis, The"
+        ],
+        "requires": [
+            "The Nemesis"
+        ]
+    },
+    {
+        "name": "The Nemesis Victory Token",
+        "category": [
+            "Killer",
+            "Nemesis, The"
+        ],
+        "requires": [
+            "The Nemesis"
+        ],
+        "place_item": [
+            "The Nemesis Victory Token"
+        ]
+    },
+    {
+        "name": "The Nightmare Victory",
+        "category": [
+            "Killer",
+            "Nightmare, The"
+        ],
+        "requires": [
+            "The Nightmare"
+        ]
+    },
+    {
+        "name": "The Nightmare Victory Token",
+        "category": [
+            "Killer",
+            "Nightmare, The"
+        ],
+        "requires": [
+            "The Nightmare"
+        ],
+        "place_item": [
+            "The Nightmare Victory Token"
+        ]
+    },
+    {
+        "name": "The Nurse Victory",
+        "category": [
+            "Killer",
+            "Nurse, The"
+        ],
+        "requires": [
+            "The Nurse"
+        ]
+    },
+    {
+        "name": "The Nurse Victory Token",
+        "category": [
+            "Killer",
+            "Nurse, The"
+        ],
+        "requires": [
+            "The Nurse"
+        ],
+        "place_item": [
+            "The Nurse Victory Token"
+        ]
+    },
+    {
+        "name": "The Oni Victory",
+        "category": [
+            "Killer",
+            "Oni, The"
+        ],
+        "requires": [
+            "The Oni"
+        ]
+    },
+    {
+        "name": "The Oni Victory Token",
+        "category": [
+            "Killer",
+            "Oni, The"
+        ],
+        "requires": [
+            "The Oni"
+        ],
+        "place_item": [
+            "The Oni Victory Token"
+        ]
+    },
+    {
+        "name": "The Onryo Victory",
+        "category": [
+            "Killer",
+            "Onryo, The"
+        ],
+        "requires": [
+            "The Onryo"
+        ]
+    },
+    {
+        "name": "The Onryo Victory Token",
+        "category": [
+            "Killer",
+            "Onryo, The"
+        ],
+        "requires": [
+            "The Onryo"
+        ],
+        "place_item": [
+            "The Onryo Victory Token"
+        ]
+    },
+    {
+        "name": "The Pig Victory",
+        "category": [
+            "Killer",
+            "Pig, The"
+        ],
+        "requires": [
+            "The Pig"
+        ]
+    },
+    {
+        "name": "The Pig Victory Token",
+        "category": [
+            "Killer",
+            "Pig, The"
+        ],
+        "requires": [
+            "The Pig"
+        ],
+        "place_item": [
+            "The Pig Victory Token"
+        ]
+    },
+    {
+        "name": "The Plague Victory",
+        "category": [
+            "Killer",
+            "Plague, The"
+        ],
+        "requires": [
+            "The Plague"
+        ]
+    },
+    {
+        "name": "The Plague Victory Token",
+        "category": [
+            "Killer",
+            "Plague, The"
+        ],
+        "requires": [
+            "The Plague"
+        ],
+        "place_item": [
+            "The Plague Victory Token"
+        ]
+    },
+    {
+        "name": "The Shape Victory",
+        "category": [
+            "Killer",
+            "Shape, The"
+        ],
+        "requires": [
+            "The Shape"
+        ]
+    },
+    {
+        "name": "The Shape Victory Token",
+        "category": [
+            "Killer",
+            "Shape, The"
+        ],
+        "requires": [
+            "The Shape"
+        ],
+        "place_item": [
+            "The Shape Victory Token"
+        ]
+    },
+    {
+        "name": "The Singularity Victory",
+        "category": [
+            "Killer",
+            "Singularity, The"
+        ],
+        "requires": [
+            "The Singularity"
+        ]
+    },
+    {
+        "name": "The Singularity Victory Token",
+        "category": [
+            "Killer",
+            "Singularity, The"
+        ],
+        "requires": [
+            "The Singularity"
+        ],
+        "place_item": [
+            "The Singularity Victory Token"
+        ]
+    },
+    {
+        "name": "The Skull Merchant Victory",
+        "category": [
+            "Killer",
+            "Skull Merchant, The"
+        ],
+        "requires": [
+            "The Skull Merchant"
+        ]
+    },
+    {
+        "name": "The Skull Merchant Victory Token",
+        "category": [
+            "Killer",
+            "Skull Merchant, The"
+        ],
+        "requires": [
+            "The Skull Merchant"
+        ],
+        "place_item": [
+            "The Skull Merchant Victory Token"
+        ]
+    },
+    {
+        "name": "The Spirit Victory",
+        "category": [
+            "Killer",
+            "Spirit, The"
+        ],
+        "requires": [
+            "The Spirit"
+        ]
+    },
+    {
+        "name": "The Spirit Victory Token",
+        "category": [
+            "Killer",
+            "Spirit, The"
+        ],
+        "requires": [
+            "The Spirit"
+        ],
+        "place_item": [
+            "The Spirit Victory Token"
+        ]
+    },
+    {
+        "name": "The Trapper Victory",
+        "category": [
+            "Killer",
+            "Trapper, The"
+        ],
+        "requires": [
+            "The Trapper"
+        ]
+    },
+    {
+        "name": "The Trapper Victory Token",
+        "category": [
+            "Killer",
+            "Trapper, The"
+        ],
+        "requires": [
+            "The Trapper"
+        ],
+        "place_item": [
+            "The Trapper Victory Token"
+        ]
+    },
+    {
+        "name": "The Trickster Victory",
+        "category": [
+            "Killer",
+            "Trickster, The"
+        ],
+        "requires": [
+            "The Trickster"
+        ]
+    },
+    {
+        "name": "The Trickster Victory Token",
+        "category": [
+            "Killer",
+            "Trickster, The"
+        ],
+        "requires": [
+            "The Trickster"
+        ],
+        "place_item": [
+            "The Trickster Victory Token"
+        ]
+    },
+    {
+        "name": "The Twins Victory",
+        "category": [
+            "Killer",
+            "Twins, The"
+        ],
+        "requires": [
+            "The Twins"
+        ]
+    },
+    {
+        "name": "The Twins Victory Token",
+        "category": [
+            "Killer",
+            "Twins, The"
+        ],
+        "requires": [
+            "The Twins"
+        ],
+        "place_item": [
+            "The Twins Victory Token"
+        ]
+    },
+    {
+        "name": "The Unknown Victory",
+        "category": [
+            "Killer",
+            "Unknown, The"
+        ],
+        "requires": [
+            "The Unknown"
+        ]
+    },
+    {
+        "name": "The Unknown Victory Token",
+        "category": [
+            "Killer",
+            "Unknown, The"
+        ],
+        "requires": [
+            "The Unknown"
+        ],
+        "place_item": [
+            "The Unknown Victory Token"
+        ]
+    },
+    {
+        "name": "The Wraith Victory",
+        "category": [
+            "Killer",
+            "Wraith, The"
+        ],
+        "requires": [
+            "The Wraith"
+        ]
+    },
+    {
+        "name": "The Wraith Victory Token",
+        "category": [
+            "Killer",
+            "Wraith, The"
+        ],
+        "requires": [
+            "The Wraith"
+        ],
+        "place_item": [
+            "The Wraith Victory Token"
+        ]
+    },
+    {
+        "name": "The Xenomorph Victory",
+        "category": [
+            "Killer",
+            "Xenomorph, The"
+        ],
+        "requires": [
+            "The Xenomorph"
+        ]
+    },
+    {
+        "name": "The Xenomorph Victory Token",
+        "category": [
+            "Killer",
+            "Xenomorph, The"
+        ],
+        "requires": [
+            "The Xenomorph"
+        ],
+        "place_item": [
+            "The Xenomorph Victory Token"
+        ]
+    },
+    {
+        "name": "Thrilling Tremors Victory",
+        "category": [
+            "Perk",
+            "Ghost Face, The"
+        ],
+        "requires": [
+            "Thrilling Tremors"
+        ]
+    },
+    {
+        "name": "Tinkerer Victory",
+        "category": [
+            "Perk",
+            "Hillbilly, The"
+        ],
+        "requires": [
+            "Tinkerer"
+        ]
+    },
+    {
+        "name": "Trail of Torment Victory",
+        "category": [
+            "Perk",
+            "Executioner, The"
+        ],
+        "requires": [
+            "Trail of Torment"
+        ]
+    },
+    {
+        "name": "Ultimate Weapon Victory",
+        "category": [
+            "Perk",
+            "Xenomorph, The"
+        ],
+        "requires": [
+            "Ultimate Weapon"
+        ]
+    },
+    {
+        "name": "Unbound Victory",
+        "category": [
+            "Perk",
+            "Unknown, The"
+        ],
+        "requires": [
+            "Unbound"
+        ]
+    },
+    {
+        "name": "Undone Victory",
+        "category": [
+            "Perk",
+            "Unknown, The"
+        ],
+        "requires": [
+            "Undone"
+        ]
+    },
+    {
+        "name": "Unforeseen Victory",
+        "category": [
+            "Perk",
+            "Unknown, The"
+        ],
+        "requires": [
+            "Unforeseen"
+        ]
+    },
+    {
+        "name": "Unnerving Presence Victory",
+        "category": [
+            "Perk",
+            "Trapper, The"
+        ],
+        "requires": [
+            "Unnerving Presence"
+        ]
+    },
+    {
+        "name": "Unrelenting Victory",
+        "category": [
+            "Perk",
+            "Base Perks"
+        ],
+        "requires": [
+            "Unrelenting"
+        ]
+    },
+    {
+        "name": "Weave Attunement Victory",
+        "category": [
+            "Perk",
+            "Lich, The"
+        ],
+        "requires": [
+            "Weave Attunement"
+        ]
+    },
+    {
+        "name": "Whispers Victory",
+        "category": [
+            "Perk",
+            "Base Perks"
+        ],
+        "requires": [
+            "Whispers"
+        ]
+    },
+    {
+        "name": "Zanshin Tactics Victory",
+        "category": [
+            "Perk",
+            "Oni, The"
+        ],
+        "requires": [
+            "Zanshin Tactics"
+        ]
+    }
+]

@@ -224,6 +224,14 @@
         "progression": true
     },
     {
+        "name": "Dominance",
+        "category": [
+            "Perk",
+            "Dark Lord, The"
+        ],
+        "progression": true
+    },
+    {
         "name": "Dragon's Grip",
         "category": [
             "Perk",
@@ -480,6 +488,14 @@
         "progression": true
     },
     {
+        "name": "Hex: Wretched Fate",
+        "category": [
+            "Perk",
+            "Dark Lord, The"
+        ],
+        "progression": true
+    },
+    {
         "name": "Hoarder",
         "category": [
             "Perk",
@@ -492,6 +508,14 @@
         "category": [
             "Perk",
             "Knight, The"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Human Greed",
+        "category": [
+            "Perk",
+            "Dark Lord, The"
         ],
         "progression": true
     },
@@ -948,6 +972,22 @@
         "category": [
             "Victory Tokens",
             "Clown, The"
+        ],
+        "progression": true
+    },
+    {
+        "name": "The Dark Lord",
+        "category": [
+            "Killer",
+            "Dark Lord, The"
+        ],
+        "progression": true
+    },
+    {
+        "name": "The Dark Lord Victory Token",
+        "category": [
+            "Victory Tokens",
+            "Dark Lord, The"
         ],
         "progression": true
     },

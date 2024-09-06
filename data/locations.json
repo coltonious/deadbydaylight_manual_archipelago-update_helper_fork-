@@ -280,6 +280,16 @@
         ]
     },
     {
+        "name": "Dominance Victory",
+        "category": [
+            "Perk",
+            "Dark Lord, The"
+        ],
+        "requires": [
+            "Dominance"
+        ]
+    },
+    {
         "name": "Dragon's Grip Victory",
         "category": [
             "Perk",
@@ -606,6 +616,16 @@
         ]
     },
     {
+        "name": "Hex: Wretched Fate Victory",
+        "category": [
+            "Perk",
+            "Dark Lord, The"
+        ],
+        "requires": [
+            "Hex: Wretched Fate"
+        ]
+    },
+    {
         "name": "Hoarder Victory",
         "category": [
             "Perk",
@@ -623,6 +643,16 @@
         ],
         "requires": [
             "Hubris"
+        ]
+    },
+    {
+        "name": "Human Greed Victory",
+        "category": [
+            "Perk",
+            "Dark Lord, The"
+        ],
+        "requires": [
+            "Human Greed"
         ]
     },
     {
@@ -1208,6 +1238,29 @@
         ],
         "place_item": [
             "The Clown Victory Token"
+        ]
+    },
+    {
+        "name": "The Dark Lord Victory",
+        "category": [
+            "Killer",
+            "Dark Lord, The"
+        ],
+        "requires": [
+            "The Dark Lord"
+        ]
+    },
+    {
+        "name": "The Dark Lord Victory Token",
+        "category": [
+            "Killer",
+            "Dark Lord, The"
+        ],
+        "requires": [
+            "The Dark Lord"
+        ],
+        "place_item": [
+            "The Dark Lord Victory Token"
         ]
     },
     {

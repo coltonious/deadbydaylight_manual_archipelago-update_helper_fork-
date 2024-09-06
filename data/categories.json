@@ -189,5 +189,10 @@
         "yaml_option": [
             "the_lich"
         ]
+    },
+    "Dark Lord, The": {
+        "yaml_option": [
+            "the_dark_lord"
+        ]
     }
 }

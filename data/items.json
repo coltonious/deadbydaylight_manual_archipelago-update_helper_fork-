@@ -488,7 +488,7 @@
         "progression": true
     },
     {
-        "name": "Hex: Wretched Fate",
+        "name": "Hex - Wretched Fate",
         "category": [
             "Perk",
             "Dark Lord, The"
@@ -656,6 +656,14 @@
         "progression": true
     },
     {
+        "name": "Monstrous Shrine",
+        "category": [
+            "Base Perks",
+            "Perk"
+        ],
+        "progression": true
+    },
+    {
         "name": "Nemesis",
         "category": [
             "Perk",
@@ -764,14 +772,6 @@
         "category": [
             "Perk",
             "Shape, The"
-        ],
-        "progression": true
-    },
-    {
-        "name": "Scourge Hook - Monstrous Shrine",
-        "category": [
-            "Base Perks",
-            "Perk"
         ],
         "progression": true
     },

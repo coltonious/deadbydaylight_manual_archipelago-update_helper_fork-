@@ -616,13 +616,13 @@
         ]
     },
     {
-        "name": "Hex: Wretched Fate Victory",
+        "name": "Hex - Wretched Fate Victory",
         "category": [
             "Perk",
             "Dark Lord, The"
         ],
         "requires": [
-            "Hex: Wretched Fate"
+            "Hex - Wretched Fate"
         ]
     },
     {
@@ -826,6 +826,16 @@
         ]
     },
     {
+        "name": "Monstrous Shrine Victory",
+        "category": [
+            "Perk",
+            "Base Perks"
+        ],
+        "requires": [
+            "Monstrous Shrine"
+        ]
+    },
+    {
         "name": "Nemesis Victory",
         "category": [
             "Perk",
@@ -963,16 +973,6 @@
         ],
         "requires": [
             "Save the Best for Last"
-        ]
-    },
-    {
-        "name": "Scourge Hook - Monstrous Shrine Victory",
-        "category": [
-            "Perk",
-            "Base Perks"
-        ],
-        "requires": [
-            "Scourge Hook - Monstrous Shrine"
         ]
     },
     {

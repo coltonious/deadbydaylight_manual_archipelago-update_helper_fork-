@@ -71,7 +71,7 @@ class TheNurse(DefaultOnToggle):
 
 
 class TheHuntress(DefaultOnToggle):
-    """Include The Huntress and their perks (Beast of Prey, Territorial Imperative, Hex - Huntress Lullaby) as items and locations"""
+    """Include The Huntress and their perks (Beast of Prey, Territorial Imperative, Hex: Huntress Lullaby) as items and locations"""
     display_name = "Include The Huntress"
 
 
@@ -81,7 +81,7 @@ class TheShape(DefaultOnToggle):
 
 
 class TheHag(DefaultOnToggle):
-    """Include The Hag and their perks (Hex - The Third Seal, Hex - Ruin, Hex - Devour Hope) as items and locations"""
+    """Include The Hag and their perks (Hex: The Third Seal, Hex: Ruin, Hex: Devour Hope) as items and locations"""
     display_name = "Include The Hag"
 
 
@@ -101,7 +101,7 @@ class TheNightmare(DefaultOnToggle):
 
 
 class ThePig(DefaultOnToggle):
-    """Include The Pig and their perks (Hangman's Trick, Surveillance, Make Your Choice) as items and locations"""
+    """Include The Pig and their perks (Scourge Hook: Hangman's Trick, Surveillance, Make Your Choice) as items and locations"""
     display_name = "Include The Pig"
 
 
@@ -111,7 +111,7 @@ class TheClown(DefaultOnToggle):
 
 
 class TheSpirit(DefaultOnToggle):
-    """Include The Spirit and their perks (Spirit Fury, Hex - Haunted Ground, Rancor) as items and locations"""
+    """Include The Spirit and their perks (Spirit Fury, Hex: Haunted Ground, Rancor) as items and locations"""
     display_name = "Include The Spirit"
 
 
@@ -141,7 +141,7 @@ class TheOni(DefaultOnToggle):
 
 
 class TheDeathslinger(DefaultOnToggle):
-    """Include The Deathslinger and their perks (Gearhead, Dead Man's Switch, Hex - Retribution) as items and locations"""
+    """Include The Deathslinger and their perks (Gearhead, Dead Man's Switch, Hex: Retribution) as items and locations"""
     display_name = "Include The Deathslinger"
 
 
@@ -151,7 +151,7 @@ class TheExecutioner(DefaultOnToggle):
 
 
 class TheBlight(DefaultOnToggle):
-    """Include The Blight and their perks (Dragon's Grip, Hex - Blood Favor, Hex - Undying) as items and locations"""
+    """Include The Blight and their perks (Dragon's Grip, Hex: Blood Favor, Hex: Undying) as items and locations"""
     display_name = "Include The Blight"
 
 
@@ -161,7 +161,7 @@ class TheTwins(DefaultOnToggle):
 
 
 class TheTrickster(DefaultOnToggle):
-    """Include The Trickster and their perks (Starstruck, Hex - Crowd Control, No Way Out) as items and locations"""
+    """Include The Trickster and their perks (Starstruck, Hex: Crowd Control, No Way Out) as items and locations"""
     display_name = "Include The Trickster"
 
 
@@ -171,17 +171,17 @@ class TheNemesis(DefaultOnToggle):
 
 
 class TheCenobite(DefaultOnToggle):
-    """Include The Cenobite and their perks (Deadlock, Hex - Plaything, Gift of Pain) as items and locations"""
+    """Include The Cenobite and their perks (Deadlock, Hex: Plaything, Scourge Hook: Gift of Pain) as items and locations"""
     display_name = "Include The Cenobite"
 
 
 class TheArtist(DefaultOnToggle):
-    """Include The Artist and their perks (Grim Embrace, Pain Resonance, Hex - Pentimento) as items and locations"""
+    """Include The Artist and their perks (Grim Embrace, Scourge Hook: Pain Resonance, Hex: Pentimento) as items and locations"""
     display_name = "Include The Artist"
 
 
 class TheOnryo(DefaultOnToggle):
-    """Include The Onryo and their perks (Call of Brine, Floods of Rage, Merciless Storm) as items and locations"""
+    """Include The Onryo and their perks (Call of Brine, Scourge Hook: Floods of Rage, Merciless Storm) as items and locations"""
     display_name = "Include The Onryo"
 
 
@@ -196,7 +196,7 @@ class TheMastermind(DefaultOnToggle):
 
 
 class TheKnight(DefaultOnToggle):
-    """Include The Knight and their perks (Nowhere to Hide, Hex - Face the Darkness, Hubris) as items and locations"""
+    """Include The Knight and their perks (Nowhere to Hide, Hex: Face the Darkness, Hubris) as items and locations"""
     display_name = "Include The Knight"
 
 
@@ -216,7 +216,7 @@ class TheXenomorph(DefaultOnToggle):
 
 
 class TheGoodGuy(DefaultOnToggle):
-    """Include The Good Guy and their perks (Hex - Two Can Play, Friends 'til the End, Batteries Included) as items and locations"""
+    """Include The Good Guy and their perks (Hex: Two Can Play, Friends 'til the End, Batteries Included) as items and locations"""
     display_name = "Include The Good Guy"
 
 

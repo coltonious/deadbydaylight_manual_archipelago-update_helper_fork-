@@ -21,6 +21,10 @@ categories = {
     "Base Perks": {"yaml_option": ["include_general_perks"]},
 }
 for perk in killerDict["base"]:
+    if "Hex: " in perk:
+        perk = perk.replace("Hex: ", "Hex - ")
+    if "Scourge Hook: " in perk:
+        perk = perk.replace("Scourge Hook: ", "")
     items.append(
         {"name": perk, "category": ["Base Perks", "Perk"], "progression": True}
     )
@@ -84,6 +88,10 @@ for killer, perks in killerDict["killers"].items():
     )
     # add location & item for perks
     for killerPerk in perks:
+        if "Hex: " in killerPerk:
+            killerPerk = killerPerk.replace("Hex: ", "Hex - ")
+        if "Scourge Hook: " in killerPerk:
+            killerPerk = killerPerk.replace("Scourge Hook: ", "")
         items.append(
             {
                 "name": killerPerk,

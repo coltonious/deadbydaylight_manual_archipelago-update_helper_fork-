@@ -2,11 +2,11 @@
   "Bitter Murmur",
   "Deerstalker",
   "Distressing",
-  "Hex - No One Escapes Death",
-  "Hex - Thrill of the Hunt",
+  "Hex: No One Escapes Death",
+  "Hex: Thrill of the Hunt",
   "Insidious",
   "Iron Grasp",
-  "Scourge Hook - Monstrous Shrine",
+  "Scourge Hook: Monstrous Shrine",
   "Shattered Hope",
   "Sloppy Butcher",
   "Spies from the Shadows",
@@ -38,7 +38,7 @@
     "The Huntress": [
       "Beast of Prey",
       "Territorial Imperative",
-      "Hex - Huntress Lullaby"
+      "Hex: Huntress Lullaby"
     ],
     "The Shape": [
       "Save the Best for Last",
@@ -46,9 +46,9 @@
       "Dying Light"
     ],
     "The Hag": [
-      "Hex - The Third Seal",
-      "Hex - Ruin",
-      "Hex - Devour Hope"
+      "Hex: The Third Seal",
+      "Hex: Ruin",
+      "Hex: Devour Hope"
     ],
     "The Doctor": [
       "Overwhelming Presence",
@@ -66,7 +66,7 @@
       "Blood Warden"
     ],
     "The Pig": [
-      "Hangman's Trick",
+      "Scourge Hook: Hangman's Trick",
       "Surveillance",
       "Make Your Choice"
     ],
@@ -77,7 +77,7 @@
     ],
     "The Spirit": [
       "Spirit Fury",
-      "Hex - Haunted Ground",
+      "Hex: Haunted Ground",
       "Rancor"
     ],
     "The Legion": [
@@ -108,7 +108,7 @@
     "The Deathslinger": [
       "Gearhead",
       "Dead Man's Switch",
-      "Hex - Retribution"
+      "Hex: Retribution"
     ],
     "The Executioner": [
       "Forced Penance",
@@ -117,8 +117,8 @@
     ],
     "The Blight": [
       "Dragon's Grip",
-      "Hex - Blood Favor",
-      "Hex - Undying"
+      "Hex: Blood Favor",
+      "Hex: Undying"
     ],
     "The Twins": [
       "Hoarder",
@@ -127,7 +127,7 @@
     ],
     "The Trickster": [
       "Starstruck",
-      "Hex - Crowd Control",
+      "Hex: Crowd Control",
       "No Way Out"
     ],
     "The Nemesis": [
@@ -137,17 +137,17 @@
     ],
     "The Cenobite": [
       "Deadlock",
-      "Hex - Plaything",
-      "Gift of Pain"
+      "Hex: Plaything",
+      "Scourge Hook: Gift of Pain"
     ],
     "The Artist": [
       "Grim Embrace",
-      "Pain Resonance",
-      "Hex - Pentimento"
+      "Scourge Hook: Pain Resonance",
+      "Hex: Pentimento"
     ],
     "The Onryo": [
       "Call of Brine",
-      "Floods of Rage",
+      "Scourge Hook: Floods of Rage",
       "Merciless Storm"
     ],
     "The Dredge": [
@@ -162,7 +162,7 @@
     ],
     "The Knight": [
       "Nowhere to Hide",
-      "Hex - Face the Darkness",
+      "Hex: Face the Darkness",
       "Hubris"
     ],
     "The Skull Merchant": [
@@ -181,7 +181,7 @@
       "Ultimate Weapon"
     ],
     "The Good Guy": [
-      "Hex - Two Can Play",
+      "Hex: Two Can Play",
       "Friends 'til the End",
       "Batteries Included"
     ],

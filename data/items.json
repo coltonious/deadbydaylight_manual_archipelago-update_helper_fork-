@@ -24,6 +24,14 @@
         "progression": true
     },
     {
+        "name": "All-Shaking Thunder",
+        "category": [
+            "Perk",
+            "Houndmaster, The"
+        ],
+        "progression": true
+    },
+    {
         "name": "Awakened Awareness",
         "category": [
             "Perk",
@@ -568,6 +576,14 @@
         "progression": true
     },
     {
+        "name": "Jagged Compass",
+        "category": [
+            "Perk",
+            "Houndmaster, The"
+        ],
+        "progression": true
+    },
+    {
         "name": "Knockout",
         "category": [
             "Perk",
@@ -668,6 +684,14 @@
         "category": [
             "Perk",
             "Oni, The"
+        ],
+        "progression": true
+    },
+    {
+        "name": "No Quarter",
+        "category": [
+            "Perk",
+            "Houndmaster, The"
         ],
         "progression": true
     },
@@ -1132,6 +1156,22 @@
         "category": [
             "Victory Tokens",
             "Hillbilly, The"
+        ],
+        "progression": true
+    },
+    {
+        "name": "The Houndmaster",
+        "category": [
+            "Killer",
+            "Houndmaster, The"
+        ],
+        "progression": true
+    },
+    {
+        "name": "The Houndmaster Victory Token",
+        "category": [
+            "Victory Tokens",
+            "Houndmaster, The"
         ],
         "progression": true
     },

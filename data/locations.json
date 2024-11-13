@@ -30,6 +30,16 @@
         ]
     },
     {
+        "name": "All-Shaking Thunder Victory",
+        "category": [
+            "Perk",
+            "Houndmaster, The"
+        ],
+        "requires": [
+            "All-Shaking Thunder"
+        ]
+    },
+    {
         "name": "Awakened Awareness Victory",
         "category": [
             "Perk",
@@ -716,6 +726,16 @@
         ]
     },
     {
+        "name": "Jagged Compass Victory",
+        "category": [
+            "Perk",
+            "Houndmaster, The"
+        ],
+        "requires": [
+            "Jagged Compass"
+        ]
+    },
+    {
         "name": "Knockout Victory",
         "category": [
             "Perk",
@@ -843,6 +863,16 @@
         ],
         "requires": [
             "Nemesis"
+        ]
+    },
+    {
+        "name": "No Quarter Victory",
+        "category": [
+            "Perk",
+            "Houndmaster, The"
+        ],
+        "requires": [
+            "No Quarter"
         ]
     },
     {
@@ -1468,6 +1498,29 @@
         ],
         "place_item": [
             "The Hillbilly Victory Token"
+        ]
+    },
+    {
+        "name": "The Houndmaster Victory",
+        "category": [
+            "Killer",
+            "Houndmaster, The"
+        ],
+        "requires": [
+            "The Houndmaster"
+        ]
+    },
+    {
+        "name": "The Houndmaster Victory Token",
+        "category": [
+            "Killer",
+            "Houndmaster, The"
+        ],
+        "requires": [
+            "The Houndmaster"
+        ],
+        "place_item": [
+            "The Houndmaster Victory Token"
         ]
     },
     {

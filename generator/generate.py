@@ -1,8 +1,6 @@
 import json
+import dbd_data
 
-f = open("sourcedata.json")
-killerDict = json.load(f)
-f.close()
 
 options = "#Generated option definitions\n"
 options_adds = "#Generated option assignments\n"
@@ -20,7 +18,7 @@ categories = {
     "Perk": {"yaml_option": ["perk_roulette"]},
     "Base Perks": {"yaml_option": ["include_general_perks"]},
 }
-for perk in killerDict["base"]:
+for perk in dbd_data.base_perks():
     if "Hex: " in perk:
         perk = perk.replace("Hex: ", "Hex - ")
     if "Scourge Hook: " in perk:
@@ -37,10 +35,10 @@ for perk in killerDict["base"]:
     )
 
 print(
-    f"Killer count: { len(killerDict['killers']) } - don't forget to set this in hooks/Options.py"
+    f"Killer count: { len(dbd_data.killers()) } - don't forget to set this in hooks/Options.py"
 )
 
-for killer, perks in killerDict["killers"].items():
+for killer, perks in dbd_data.killer_perks_by_killer().items():
     # cut out "The " in category name (AP doesn't like item and category name sharing)
     killer_category = killer[4:] + ", The"
     # name for yaml option (lowercase, underscored)

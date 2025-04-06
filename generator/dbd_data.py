@@ -95,6 +95,11 @@ _killers = {
         "No Quarter",
         "Scourge Hook: Jagged Compass",
     ],
+    "The Ghoul": [
+        "Forever Entwined",
+        "Hex: Nothing But Misery",
+        "None Are Free",
+    ]
 }
 
 

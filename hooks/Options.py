@@ -32,7 +32,7 @@ class TotalCharactersToWinWith(Range):
 
     display_name = "Number of characters to beat the game with before victory"
     range_start = 3
-    range_end = 38
+    range_end = 39
     default = 20
 
 
@@ -77,7 +77,8 @@ class TheNurse(DefaultOnToggle):
 
 
 class TheHuntress(DefaultOnToggle):
-    """Include The Huntress and their perks (Beast of Prey, Territorial Imperative, Hex: Huntress Lullaby) as items and locations"""
+    """Include The Huntress and their perks (Beast of Prey, Territorial Imperative, Hex: Huntress Lullaby) as items
+    and locations"""
 
     display_name = "Include The Huntress"
 
@@ -279,6 +280,10 @@ class TheHoundmaster(DefaultOnToggle):
 
     display_name = "Include The Houndmaster"
 
+
+class TheGhoul(DefaultOnToggle):
+    """Include The Ghoul and their perks (Forever Entwined, Hex: Nothing But Misery, None Are Free) as items and locations"""
+    display_name = "Include The Ghoul"
 
 # end generated
 

@@ -386,6 +386,16 @@
         ]
     },
     {
+        "name": "Forever Entwined Victory",
+        "category": [
+            "Perk",
+            "Ghoul, The"
+        ],
+        "requires": [
+            "Forever Entwined"
+        ]
+    },
+    {
         "name": "Franklin's Demise Victory",
         "category": [
             "Perk",
@@ -543,6 +553,16 @@
         ],
         "requires": [
             "Hex - No One Escapes Death"
+        ]
+    },
+    {
+        "name": "Hex - Nothing But Misery Victory",
+        "category": [
+            "Perk",
+            "Ghoul, The"
+        ],
+        "requires": [
+            "Hex - Nothing But Misery"
         ]
     },
     {
@@ -883,6 +903,16 @@
         ],
         "requires": [
             "No Way Out"
+        ]
+    },
+    {
+        "name": "None Are Free Victory",
+        "category": [
+            "Perk",
+            "Ghoul, The"
+        ],
+        "requires": [
+            "None Are Free"
         ]
     },
     {
@@ -1429,6 +1459,29 @@
         ],
         "place_item": [
             "The Ghost Face Victory Token"
+        ]
+    },
+    {
+        "name": "The Ghoul Victory",
+        "category": [
+            "Killer",
+            "Ghoul, The"
+        ],
+        "requires": [
+            "The Ghoul"
+        ]
+    },
+    {
+        "name": "The Ghoul Victory Token",
+        "category": [
+            "Killer",
+            "Ghoul, The"
+        ],
+        "requires": [
+            "The Ghoul"
+        ],
+        "place_item": [
+            "The Ghoul Victory Token"
         ]
     },
     {

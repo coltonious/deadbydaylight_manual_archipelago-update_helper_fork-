@@ -486,6 +486,26 @@
         ]
     },
     {
+        "name": "Haywire Victory",
+        "category": [
+            "Perk",
+            "Animatronic, The"
+        ],
+        "requires": [
+            "|Haywire|"
+        ]
+    },
+    {
+        "name": "Help Wanted Victory",
+        "category": [
+            "Perk",
+            "Animatronic, The"
+        ],
+        "requires": [
+            "|Help Wanted|"
+        ]
+    },
+    {
         "name": "Hex - Blood Favor Victory",
         "category": [
             "Perk",
@@ -966,6 +986,16 @@
         ]
     },
     {
+        "name": "Phantom Fear Victory",
+        "category": [
+            "Perk",
+            "Animatronic, The"
+        ],
+        "requires": [
+            "|Phantom Fear|"
+        ]
+    },
+    {
         "name": "Play With Your Food Victory",
         "category": [
             "Perk",
@@ -1183,6 +1213,29 @@
         ],
         "requires": [
             "|Thanatophobia|"
+        ]
+    },
+    {
+        "name": "The Animatronic Victory",
+        "category": [
+            "Killer",
+            "Animatronic, The"
+        ],
+        "requires": [
+            "|The Animatronic|"
+        ]
+    },
+    {
+        "name": "The Animatronic Victory Token",
+        "category": [
+            "Killer",
+            "Animatronic, The"
+        ],
+        "requires": [
+            "|The Animatronic|"
+        ],
+        "place_item": [
+            "The Animatronic Victory Token"
         ]
     },
     {

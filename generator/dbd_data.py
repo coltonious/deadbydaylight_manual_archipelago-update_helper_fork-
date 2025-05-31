@@ -99,6 +99,11 @@ _killers = {
         "Forever Entwined",
         "Hex: Nothing But Misery",
         "None Are Free",
+    ],
+    "The Animatronic": [
+        "Phantom Fear",
+        "Help Wanted",
+        "Haywire",
     ]
 }
 

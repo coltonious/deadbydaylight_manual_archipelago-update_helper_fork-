@@ -285,6 +285,10 @@ class TheGhoul(DefaultOnToggle):
     """Include The Ghoul and their perks (Forever Entwined, Hex: Nothing But Misery, None Are Free) as items and locations"""
     display_name = "Include The Ghoul"
 
+class TheAnimatronic(DefaultOnToggle):
+    """Include The Animatronic and their perks (Phantom Fear, Help Wanted, Haywire) as items and locations"""
+    display_name = "Include The Animatronic"
+
 # end generated
 
 

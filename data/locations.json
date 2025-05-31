@@ -6,7 +6,7 @@
             "Nurse, The"
         ],
         "requires": [
-            "A Nurse's Calling"
+            "|A Nurse's Calling|"
         ]
     },
     {
@@ -16,7 +16,7 @@
             "Trapper, The"
         ],
         "requires": [
-            "Agitation"
+            "|Agitation|"
         ]
     },
     {
@@ -26,7 +26,7 @@
             "Xenomorph, The"
         ],
         "requires": [
-            "Alien Instinct"
+            "|Alien Instinct|"
         ]
     },
     {
@@ -36,7 +36,7 @@
             "Houndmaster, The"
         ],
         "requires": [
-            "All-Shaking Thunder"
+            "|All-Shaking Thunder|"
         ]
     },
     {
@@ -46,7 +46,7 @@
             "Mastermind, The"
         ],
         "requires": [
-            "Awakened Awareness"
+            "|Awakened Awareness|"
         ]
     },
     {
@@ -56,7 +56,7 @@
             "Clown, The"
         ],
         "requires": [
-            "Bamboozle"
+            "|Bamboozle|"
         ]
     },
     {
@@ -66,7 +66,7 @@
             "Cannibal, The"
         ],
         "requires": [
-            "Barbecue & Chilli"
+            "|Barbecue & Chilli|"
         ]
     },
     {
@@ -76,7 +76,7 @@
             "Good Guy, The"
         ],
         "requires": [
-            "Batteries Included"
+            "|Batteries Included|"
         ]
     },
     {
@@ -86,7 +86,7 @@
             "Huntress, The"
         ],
         "requires": [
-            "Beast of Prey"
+            "|Beast of Prey|"
         ]
     },
     {
@@ -96,7 +96,7 @@
             "Base Perks"
         ],
         "requires": [
-            "Bitter Murmur"
+            "|Bitter Murmur|"
         ]
     },
     {
@@ -106,7 +106,7 @@
             "Oni, The"
         ],
         "requires": [
-            "Blood Echo"
+            "|Blood Echo|"
         ]
     },
     {
@@ -116,7 +116,7 @@
             "Nightmare, The"
         ],
         "requires": [
-            "Blood Warden"
+            "|Blood Warden|"
         ]
     },
     {
@@ -126,7 +126,7 @@
             "Wraith, The"
         ],
         "requires": [
-            "Bloodhound"
+            "|Bloodhound|"
         ]
     },
     {
@@ -136,7 +136,7 @@
             "Trapper, The"
         ],
         "requires": [
-            "Brutal Strength"
+            "|Brutal Strength|"
         ]
     },
     {
@@ -146,7 +146,7 @@
             "Onryo, The"
         ],
         "requires": [
-            "Call of Brine"
+            "|Call of Brine|"
         ]
     },
     {
@@ -156,7 +156,7 @@
             "Plague, The"
         ],
         "requires": [
-            "Corrupt Intervention"
+            "|Corrupt Intervention|"
         ]
     },
     {
@@ -166,7 +166,7 @@
             "Clown, The"
         ],
         "requires": [
-            "Coulrophobia"
+            "|Coulrophobia|"
         ]
     },
     {
@@ -176,7 +176,7 @@
             "Twins, The"
         ],
         "requires": [
-            "Coup de Grace"
+            "|Coup de Grace|"
         ]
     },
     {
@@ -186,7 +186,7 @@
             "Demogorgon, The"
         ],
         "requires": [
-            "Cruel Limits"
+            "|Cruel Limits|"
         ]
     },
     {
@@ -196,7 +196,7 @@
             "Lich, The"
         ],
         "requires": [
-            "Dark Arrogance"
+            "|Dark Arrogance|"
         ]
     },
     {
@@ -206,7 +206,7 @@
             "Plague, The"
         ],
         "requires": [
-            "Dark Devotion"
+            "|Dark Devotion|"
         ]
     },
     {
@@ -216,7 +216,7 @@
             "Dredge, The"
         ],
         "requires": [
-            "Darkness Revealed"
+            "|Darkness Revealed|"
         ]
     },
     {
@@ -226,7 +226,7 @@
             "Deathslinger, The"
         ],
         "requires": [
-            "Dead Man's Switch"
+            "|Dead Man's Switch|"
         ]
     },
     {
@@ -236,7 +236,7 @@
             "Cenobite, The"
         ],
         "requires": [
-            "Deadlock"
+            "|Deadlock|"
         ]
     },
     {
@@ -246,7 +246,7 @@
             "Executioner, The"
         ],
         "requires": [
-            "Deathbound"
+            "|Deathbound|"
         ]
     },
     {
@@ -256,7 +256,7 @@
             "Base Perks"
         ],
         "requires": [
-            "Deerstalker"
+            "|Deerstalker|"
         ]
     },
     {
@@ -266,7 +266,7 @@
             "Legion, The"
         ],
         "requires": [
-            "Discordance"
+            "|Discordance|"
         ]
     },
     {
@@ -276,7 +276,7 @@
             "Dredge, The"
         ],
         "requires": [
-            "Dissolution"
+            "|Dissolution|"
         ]
     },
     {
@@ -286,7 +286,7 @@
             "Base Perks"
         ],
         "requires": [
-            "Distressing"
+            "|Distressing|"
         ]
     },
     {
@@ -296,7 +296,7 @@
             "Dark Lord, The"
         ],
         "requires": [
-            "Dominance"
+            "|Dominance|"
         ]
     },
     {
@@ -306,7 +306,7 @@
             "Blight, The"
         ],
         "requires": [
-            "Dragon's Grip"
+            "|Dragon's Grip|"
         ]
     },
     {
@@ -316,17 +316,17 @@
             "Shape, The"
         ],
         "requires": [
-            "Dying Light"
+            "|Dying Light|"
         ]
     },
     {
         "name": "Enduring Victory",
         "category": [
             "Perk",
-            "Hillbilly, The"
+            "Hillbilly, The|"
         ],
         "requires": [
-            "Enduring"
+            "|Enduring"
         ]
     },
     {
@@ -342,7 +342,7 @@
             "Nemesis, The"
         ],
         "requires": [
-            "Eruption"
+            "|Eruption|"
         ]
     },
     {
@@ -352,7 +352,7 @@
             "Nightmare, The"
         ],
         "requires": [
-            "Fire Up"
+            "|Fire Up|"
         ]
     },
     {
@@ -362,7 +362,7 @@
             "Onryo, The"
         ],
         "requires": [
-            "Floods of Rage"
+            "|Floods of Rage|"
         ]
     },
     {
@@ -372,7 +372,7 @@
             "Singularity, The"
         ],
         "requires": [
-            "Forced Hesitation"
+            "|Forced Hesitation|"
         ]
     },
     {
@@ -382,7 +382,7 @@
             "Executioner, The"
         ],
         "requires": [
-            "Forced Penance"
+            "|Forced Penance|"
         ]
     },
     {
@@ -392,7 +392,7 @@
             "Ghoul, The"
         ],
         "requires": [
-            "Forever Entwined"
+            "|Forever Entwined|"
         ]
     },
     {
@@ -402,7 +402,7 @@
             "Cannibal, The"
         ],
         "requires": [
-            "Franklin's Demise"
+            "|Franklin's Demise|"
         ]
     },
     {
@@ -412,7 +412,7 @@
             "Good Guy, The"
         ],
         "requires": [
-            "Friends 'til the End"
+            "|Friends 'til the End|"
         ]
     },
     {
@@ -422,7 +422,7 @@
             "Ghost Face, The"
         ],
         "requires": [
-            "Furitive Chase"
+            "|Furitive Chase|"
         ]
     },
     {
@@ -432,7 +432,7 @@
             "Skull Merchant, The"
         ],
         "requires": [
-            "Game Afoot"
+            "|Game Afoot|"
         ]
     },
     {
@@ -442,7 +442,7 @@
             "Deathslinger, The"
         ],
         "requires": [
-            "Gearhead"
+            "|Gearhead|"
         ]
     },
     {
@@ -452,7 +452,7 @@
             "Singularity, The"
         ],
         "requires": [
-            "Genetic Limits"
+            "|Genetic Limits|"
         ]
     },
     {
@@ -462,7 +462,7 @@
             "Cenobite, The"
         ],
         "requires": [
-            "Gift of Pain"
+            "|Gift of Pain|"
         ]
     },
     {
@@ -472,7 +472,7 @@
             "Artist, The"
         ],
         "requires": [
-            "Grim Embrace"
+            "|Grim Embrace|"
         ]
     },
     {
@@ -482,7 +482,7 @@
             "Pig, The"
         ],
         "requires": [
-            "Hangman's Trick"
+            "|Hangman's Trick|"
         ]
     },
     {
@@ -492,7 +492,7 @@
             "Blight, The"
         ],
         "requires": [
-            "Hex - Blood Favor"
+            "|Hex - Blood Favor|"
         ]
     },
     {
@@ -502,7 +502,7 @@
             "Trickster, The"
         ],
         "requires": [
-            "Hex - Crowd Control"
+            "|Hex - Crowd Control|"
         ]
     },
     {
@@ -512,7 +512,7 @@
             "Hag, The"
         ],
         "requires": [
-            "Hex - Devour Hope"
+            "|Hex - Devour Hope|"
         ]
     },
     {
@@ -522,7 +522,7 @@
             "Knight, The"
         ],
         "requires": [
-            "Hex - Face the Darkness"
+            "|Hex - Face the Darkness|"
         ]
     },
     {
@@ -532,7 +532,7 @@
             "Spirit, The"
         ],
         "requires": [
-            "Hex - Haunted Ground"
+            "|Hex - Haunted Ground|"
         ]
     },
     {
@@ -542,7 +542,7 @@
             "Huntress, The"
         ],
         "requires": [
-            "Hex - Huntress Lullaby"
+            "|Hex - Huntress Lullaby|"
         ]
     },
     {
@@ -552,7 +552,7 @@
             "Base Perks"
         ],
         "requires": [
-            "Hex - No One Escapes Death"
+            "|Hex - No One Escapes Death|"
         ]
     },
     {
@@ -562,7 +562,7 @@
             "Ghoul, The"
         ],
         "requires": [
-            "Hex - Nothing But Misery"
+            "|Hex - Nothing But Misery|"
         ]
     },
     {
@@ -572,7 +572,7 @@
             "Artist, The"
         ],
         "requires": [
-            "Hex - Pentimento"
+            "|Hex - Pentimento|"
         ]
     },
     {
@@ -582,7 +582,7 @@
             "Cenobite, The"
         ],
         "requires": [
-            "Hex - Plaything"
+            "|Hex - Plaything|"
         ]
     },
     {
@@ -592,7 +592,7 @@
             "Deathslinger, The"
         ],
         "requires": [
-            "Hex - Retribution"
+            "|Hex - Retribution|"
         ]
     },
     {
@@ -602,7 +602,7 @@
             "Hag, The"
         ],
         "requires": [
-            "Hex - Ruin"
+            "|Hex - Ruin|"
         ]
     },
     {
@@ -612,7 +612,7 @@
             "Hag, The"
         ],
         "requires": [
-            "Hex - The Third Seal"
+            "|Hex - The Third Seal|"
         ]
     },
     {
@@ -622,7 +622,7 @@
             "Base Perks"
         ],
         "requires": [
-            "Hex - Thrill of the Hunt"
+            "|Hex - Thrill of the Hunt|"
         ]
     },
     {
@@ -632,7 +632,7 @@
             "Good Guy, The"
         ],
         "requires": [
-            "Hex - Two Can Play"
+            "|Hex - Two Can Play|"
         ]
     },
     {
@@ -642,7 +642,7 @@
             "Blight, The"
         ],
         "requires": [
-            "Hex - Undying"
+            "|Hex - Undying|"
         ]
     },
     {
@@ -652,7 +652,7 @@
             "Dark Lord, The"
         ],
         "requires": [
-            "Hex - Wretched Fate"
+            "|Hex - Wretched Fate|"
         ]
     },
     {
@@ -662,7 +662,7 @@
             "Twins, The"
         ],
         "requires": [
-            "Hoarder"
+            "|Hoarder|"
         ]
     },
     {
@@ -672,7 +672,7 @@
             "Knight, The"
         ],
         "requires": [
-            "Hubris"
+            "|Hubris|"
         ]
     },
     {
@@ -682,7 +682,7 @@
             "Dark Lord, The"
         ],
         "requires": [
-            "Human Greed"
+            "|Human Greed|"
         ]
     },
     {
@@ -692,7 +692,7 @@
             "Nemesis, The"
         ],
         "requires": [
-            "Hysteria"
+            "|Hysteria|"
         ]
     },
     {
@@ -702,7 +702,7 @@
             "Ghost Face, The"
         ],
         "requires": [
-            "I'm All Ears"
+            "|I'm All Ears|"
         ]
     },
     {
@@ -712,7 +712,7 @@
             "Plague, The"
         ],
         "requires": [
-            "Infectious Fright"
+            "|Infectious Fright|"
         ]
     },
     {
@@ -722,7 +722,7 @@
             "Base Perks"
         ],
         "requires": [
-            "Insidious"
+            "|Insidious|"
         ]
     },
     {
@@ -732,7 +732,7 @@
             "Base Perks"
         ],
         "requires": [
-            "Iron Grasp"
+            "|Iron Grasp|"
         ]
     },
     {
@@ -742,7 +742,7 @@
             "Legion, The"
         ],
         "requires": [
-            "Iron Maiden"
+            "|Iron Maiden|"
         ]
     },
     {
@@ -752,7 +752,7 @@
             "Houndmaster, The"
         ],
         "requires": [
-            "Jagged Compass"
+            "|Jagged Compass|"
         ]
     },
     {
@@ -762,7 +762,7 @@
             "Cannibal, The"
         ],
         "requires": [
-            "Knockout"
+            "|Knockout|"
         ]
     },
     {
@@ -772,7 +772,7 @@
             "Lich, The"
         ],
         "requires": [
-            "Languid Touch"
+            "|Languid Touch|"
         ]
     },
     {
@@ -782,7 +782,7 @@
             "Nemesis, The"
         ],
         "requires": [
-            "Lethal Pursuer"
+            "|Lethal Pursuer|"
         ]
     },
     {
@@ -792,7 +792,7 @@
             "Skull Merchant, The"
         ],
         "requires": [
-            "Leverage"
+            "|Leverage|"
         ]
     },
     {
@@ -802,7 +802,7 @@
             "Hillbilly, The"
         ],
         "requires": [
-            "Lightborn"
+            "|Lightborn|"
         ]
     },
     {
@@ -812,7 +812,7 @@
             "Singularity, The"
         ],
         "requires": [
-            "Machine Learning"
+            "|Machine Learning|"
         ]
     },
     {
@@ -822,7 +822,7 @@
             "Legion, The"
         ],
         "requires": [
-            "Mad Grit"
+            "|Mad Grit|"
         ]
     },
     {
@@ -832,7 +832,7 @@
             "Pig, The"
         ],
         "requires": [
-            "Make Your Choice"
+            "|Make Your Choice|"
         ]
     },
     {
@@ -842,7 +842,7 @@
             "Onryo, The"
         ],
         "requires": [
-            "Merciless Storm"
+            "|Merciless Storm|"
         ]
     },
     {
@@ -852,7 +852,7 @@
             "Demogorgon, The"
         ],
         "requires": [
-            "Mindbreaker"
+            "|Mindbreaker|"
         ]
     },
     {
@@ -862,7 +862,7 @@
             "Doctor, The"
         ],
         "requires": [
-            "Monitor & Abuse"
+            "|Monitor & Abuse|"
         ]
     },
     {
@@ -872,7 +872,7 @@
             "Base Perks"
         ],
         "requires": [
-            "Monstrous Shrine"
+            "|Monstrous Shrine|"
         ]
     },
     {
@@ -882,7 +882,7 @@
             "Oni, The"
         ],
         "requires": [
-            "Nemesis"
+            "|Nemesis|"
         ]
     },
     {
@@ -892,7 +892,7 @@
             "Houndmaster, The"
         ],
         "requires": [
-            "No Quarter"
+            "|No Quarter|"
         ]
     },
     {
@@ -902,7 +902,7 @@
             "Trickster, The"
         ],
         "requires": [
-            "No Way Out"
+            "|No Way Out|"
         ]
     },
     {
@@ -912,7 +912,7 @@
             "Ghoul, The"
         ],
         "requires": [
-            "None Are Free"
+            "|None Are Free|"
         ]
     },
     {
@@ -922,7 +922,7 @@
             "Knight, The"
         ],
         "requires": [
-            "Nowhere to Hide"
+            "|Nowhere to Hide|"
         ]
     },
     {
@@ -932,7 +932,7 @@
             "Twins, The"
         ],
         "requires": [
-            "Oppression"
+            "|Oppression|"
         ]
     },
     {
@@ -942,7 +942,7 @@
             "Doctor, The"
         ],
         "requires": [
-            "Overcharge"
+            "|Overcharge|"
         ]
     },
     {
@@ -952,7 +952,7 @@
             "Doctor, The"
         ],
         "requires": [
-            "Overwhelming Presence"
+            "|Overwhelming Presence|"
         ]
     },
     {
@@ -962,7 +962,7 @@
             "Artist, The"
         ],
         "requires": [
-            "Pain Resonance"
+            "|Pain Resonance|"
         ]
     },
     {
@@ -972,7 +972,7 @@
             "Shape, The"
         ],
         "requires": [
-            "Play With Your Food"
+            "|Play With Your Food|"
         ]
     },
     {
@@ -982,7 +982,7 @@
             "Clown, The"
         ],
         "requires": [
-            "Pop Goes The Weasel"
+            "|Pop Goes The Weasel|"
         ]
     },
     {
@@ -992,7 +992,7 @@
             "Wraith, The"
         ],
         "requires": [
-            "Predator"
+            "|Predator|"
         ]
     },
     {
@@ -1002,7 +1002,7 @@
             "Spirit, The"
         ],
         "requires": [
-            "Rancor"
+            "|Rancor|"
         ]
     },
     {
@@ -1012,7 +1012,7 @@
             "Xenomorph, The"
         ],
         "requires": [
-            "Rapid Brutality"
+            "|Rapid Brutality|"
         ]
     },
     {
@@ -1022,7 +1022,7 @@
             "Nightmare, The"
         ],
         "requires": [
-            "Remember Me"
+            "|Remember Me|"
         ]
     },
     {
@@ -1032,7 +1032,7 @@
             "Shape, The"
         ],
         "requires": [
-            "Save the Best for Last"
+            "|Save the Best for Last|"
         ]
     },
     {
@@ -1042,7 +1042,7 @@
             "Dredge, The"
         ],
         "requires": [
-            "Septic Touch"
+            "|Septic Touch|"
         ]
     },
     {
@@ -1052,7 +1052,7 @@
             "Wraith, The"
         ],
         "requires": [
-            "Shadowborn"
+            "|Shadowborn|"
         ]
     },
     {
@@ -1062,7 +1062,7 @@
             "Base Perks"
         ],
         "requires": [
-            "Shattered Hope"
+            "|Shattered Hope|"
         ]
     },
     {
@@ -1072,7 +1072,7 @@
             "Base Perks"
         ],
         "requires": [
-            "Sloppy Butcher"
+            "|Sloppy Butcher|"
         ]
     },
     {
@@ -1082,7 +1082,7 @@
             "Base Perks"
         ],
         "requires": [
-            "Spies from the Shadows"
+            "|Spies from the Shadows|"
         ]
     },
     {
@@ -1092,7 +1092,7 @@
             "Spirit, The"
         ],
         "requires": [
-            "Spirit Fury"
+            "|Spirit Fury|"
         ]
     },
     {
@@ -1102,7 +1102,7 @@
             "Trickster, The"
         ],
         "requires": [
-            "Starstruck"
+            "|Starstruck|"
         ]
     },
     {
@@ -1112,7 +1112,7 @@
             "Nurse, The"
         ],
         "requires": [
-            "Stridor"
+            "|Stridor|"
         ]
     },
     {
@@ -1122,7 +1122,7 @@
             "Mastermind, The"
         ],
         "requires": [
-            "Superior Anatomy"
+            "|Superior Anatomy|"
         ]
     },
     {
@@ -1132,7 +1132,7 @@
             "Demogorgon, The"
         ],
         "requires": [
-            "Surge"
+            "|Surge|"
         ]
     },
     {
@@ -1142,7 +1142,7 @@
             "Pig, The"
         ],
         "requires": [
-            "Surveillance"
+            "|Surveillance|"
         ]
     },
     {
@@ -1152,7 +1152,7 @@
             "Skull Merchant, The"
         ],
         "requires": [
-            "THWACK!"
+            "|THWACK!|"
         ]
     },
     {
@@ -1162,7 +1162,7 @@
             "Mastermind, The"
         ],
         "requires": [
-            "Terminus"
+            "|Terminus|"
         ]
     },
     {
@@ -1172,7 +1172,7 @@
             "Huntress, The"
         ],
         "requires": [
-            "Territorial Imperative"
+            "|Territorial Imperative|"
         ]
     },
     {
@@ -1182,7 +1182,7 @@
             "Nurse, The"
         ],
         "requires": [
-            "Thanatophobia"
+            "|Thanatophobia|"
         ]
     },
     {
@@ -1192,7 +1192,7 @@
             "Artist, The"
         ],
         "requires": [
-            "The Artist"
+            "|The Artist|"
         ]
     },
     {
@@ -1202,7 +1202,7 @@
             "Artist, The"
         ],
         "requires": [
-            "The Artist"
+            "|The Artist|"
         ],
         "place_item": [
             "The Artist Victory Token"
@@ -1215,7 +1215,7 @@
             "Blight, The"
         ],
         "requires": [
-            "The Blight"
+            "|The Blight|"
         ]
     },
     {
@@ -1225,7 +1225,7 @@
             "Blight, The"
         ],
         "requires": [
-            "The Blight"
+            "|The Blight|"
         ],
         "place_item": [
             "The Blight Victory Token"
@@ -1238,7 +1238,7 @@
             "Cannibal, The"
         ],
         "requires": [
-            "The Cannibal"
+            "|The Cannibal|"
         ]
     },
     {
@@ -1248,7 +1248,7 @@
             "Cannibal, The"
         ],
         "requires": [
-            "The Cannibal"
+            "|The Cannibal|"
         ],
         "place_item": [
             "The Cannibal Victory Token"
@@ -1261,7 +1261,7 @@
             "Cenobite, The"
         ],
         "requires": [
-            "The Cenobite"
+            "|The Cenobite|"
         ]
     },
     {
@@ -1271,7 +1271,7 @@
             "Cenobite, The"
         ],
         "requires": [
-            "The Cenobite"
+            "|The Cenobite|"
         ],
         "place_item": [
             "The Cenobite Victory Token"
@@ -1284,7 +1284,7 @@
             "Clown, The"
         ],
         "requires": [
-            "The Clown"
+            "|The Clown|"
         ]
     },
     {
@@ -1294,7 +1294,7 @@
             "Clown, The"
         ],
         "requires": [
-            "The Clown"
+            "|The Clown|"
         ],
         "place_item": [
             "The Clown Victory Token"
@@ -1307,7 +1307,7 @@
             "Dark Lord, The"
         ],
         "requires": [
-            "The Dark Lord"
+            "|The Dark Lord|"
         ]
     },
     {
@@ -1317,7 +1317,7 @@
             "Dark Lord, The"
         ],
         "requires": [
-            "The Dark Lord"
+            "|The Dark Lord|"
         ],
         "place_item": [
             "The Dark Lord Victory Token"
@@ -1330,7 +1330,7 @@
             "Deathslinger, The"
         ],
         "requires": [
-            "The Deathslinger"
+            "|The Deathslinger|"
         ]
     },
     {
@@ -1340,7 +1340,7 @@
             "Deathslinger, The"
         ],
         "requires": [
-            "The Deathslinger"
+            "|The Deathslinger|"
         ],
         "place_item": [
             "The Deathslinger Victory Token"
@@ -1353,7 +1353,7 @@
             "Demogorgon, The"
         ],
         "requires": [
-            "The Demogorgon"
+            "|The Demogorgon|"
         ]
     },
     {
@@ -1363,7 +1363,7 @@
             "Demogorgon, The"
         ],
         "requires": [
-            "The Demogorgon"
+            "|The Demogorgon|"
         ],
         "place_item": [
             "The Demogorgon Victory Token"
@@ -1376,7 +1376,7 @@
             "Doctor, The"
         ],
         "requires": [
-            "The Doctor"
+            "|The Doctor|"
         ]
     },
     {
@@ -1386,7 +1386,7 @@
             "Doctor, The"
         ],
         "requires": [
-            "The Doctor"
+            "|The Doctor|"
         ],
         "place_item": [
             "The Doctor Victory Token"
@@ -1399,7 +1399,7 @@
             "Dredge, The"
         ],
         "requires": [
-            "The Dredge"
+            "|The Dredge|"
         ]
     },
     {
@@ -1409,7 +1409,7 @@
             "Dredge, The"
         ],
         "requires": [
-            "The Dredge"
+            "|The Dredge|"
         ],
         "place_item": [
             "The Dredge Victory Token"
@@ -1422,7 +1422,7 @@
             "Executioner, The"
         ],
         "requires": [
-            "The Executioner"
+            "|The Executioner|"
         ]
     },
     {
@@ -1432,7 +1432,7 @@
             "Executioner, The"
         ],
         "requires": [
-            "The Executioner"
+            "|The Executioner|"
         ],
         "place_item": [
             "The Executioner Victory Token"
@@ -1445,7 +1445,7 @@
             "Ghost Face, The"
         ],
         "requires": [
-            "The Ghost Face"
+            "|The Ghost Face|"
         ]
     },
     {
@@ -1455,7 +1455,7 @@
             "Ghost Face, The"
         ],
         "requires": [
-            "The Ghost Face"
+            "|The Ghost Face|"
         ],
         "place_item": [
             "The Ghost Face Victory Token"
@@ -1468,7 +1468,7 @@
             "Ghoul, The"
         ],
         "requires": [
-            "The Ghoul"
+            "|The Ghoul|"
         ]
     },
     {
@@ -1478,7 +1478,7 @@
             "Ghoul, The"
         ],
         "requires": [
-            "The Ghoul"
+            "|The Ghoul|"
         ],
         "place_item": [
             "The Ghoul Victory Token"
@@ -1491,7 +1491,7 @@
             "Good Guy, The"
         ],
         "requires": [
-            "The Good Guy"
+            "|The Good Guy|"
         ]
     },
     {
@@ -1501,7 +1501,7 @@
             "Good Guy, The"
         ],
         "requires": [
-            "The Good Guy"
+            "|The Good Guy|"
         ],
         "place_item": [
             "The Good Guy Victory Token"
@@ -1514,7 +1514,7 @@
             "Hag, The"
         ],
         "requires": [
-            "The Hag"
+            "|The Hag|"
         ]
     },
     {
@@ -1524,7 +1524,7 @@
             "Hag, The"
         ],
         "requires": [
-            "The Hag"
+            "|The Hag|"
         ],
         "place_item": [
             "The Hag Victory Token"
@@ -1537,7 +1537,7 @@
             "Hillbilly, The"
         ],
         "requires": [
-            "The Hillbilly"
+            "|The Hillbilly|"
         ]
     },
     {
@@ -1547,7 +1547,7 @@
             "Hillbilly, The"
         ],
         "requires": [
-            "The Hillbilly"
+            "|The Hillbilly|"
         ],
         "place_item": [
             "The Hillbilly Victory Token"
@@ -1560,7 +1560,7 @@
             "Houndmaster, The"
         ],
         "requires": [
-            "The Houndmaster"
+            "|The Houndmaster|"
         ]
     },
     {
@@ -1570,7 +1570,7 @@
             "Houndmaster, The"
         ],
         "requires": [
-            "The Houndmaster"
+            "|The Houndmaster|"
         ],
         "place_item": [
             "The Houndmaster Victory Token"
@@ -1583,7 +1583,7 @@
             "Huntress, The"
         ],
         "requires": [
-            "The Huntress"
+            "|The Huntress|"
         ]
     },
     {
@@ -1593,7 +1593,7 @@
             "Huntress, The"
         ],
         "requires": [
-            "The Huntress"
+            "|The Huntress|"
         ],
         "place_item": [
             "The Huntress Victory Token"
@@ -1606,7 +1606,7 @@
             "Knight, The"
         ],
         "requires": [
-            "The Knight"
+            "|The Knight|"
         ]
     },
     {
@@ -1616,7 +1616,7 @@
             "Knight, The"
         ],
         "requires": [
-            "The Knight"
+            "|The Knight|"
         ],
         "place_item": [
             "The Knight Victory Token"
@@ -1629,7 +1629,7 @@
             "Legion, The"
         ],
         "requires": [
-            "The Legion"
+            "|The Legion|"
         ]
     },
     {
@@ -1639,7 +1639,7 @@
             "Legion, The"
         ],
         "requires": [
-            "The Legion"
+            "|The Legion|"
         ],
         "place_item": [
             "The Legion Victory Token"
@@ -1652,7 +1652,7 @@
             "Lich, The"
         ],
         "requires": [
-            "The Lich"
+            "|The Lich|"
         ]
     },
     {
@@ -1662,7 +1662,7 @@
             "Lich, The"
         ],
         "requires": [
-            "The Lich"
+            "|The Lich|"
         ],
         "place_item": [
             "The Lich Victory Token"
@@ -1675,7 +1675,7 @@
             "Mastermind, The"
         ],
         "requires": [
-            "The Mastermind"
+            "|The Mastermind|"
         ]
     },
     {
@@ -1685,7 +1685,7 @@
             "Mastermind, The"
         ],
         "requires": [
-            "The Mastermind"
+            "|The Mastermind|"
         ],
         "place_item": [
             "The Mastermind Victory Token"
@@ -1698,7 +1698,7 @@
             "Nemesis, The"
         ],
         "requires": [
-            "The Nemesis"
+            "|The Nemesis|"
         ]
     },
     {
@@ -1708,7 +1708,7 @@
             "Nemesis, The"
         ],
         "requires": [
-            "The Nemesis"
+            "|The Nemesis|"
         ],
         "place_item": [
             "The Nemesis Victory Token"
@@ -1721,7 +1721,7 @@
             "Nightmare, The"
         ],
         "requires": [
-            "The Nightmare"
+            "|The Nightmare|"
         ]
     },
     {
@@ -1731,7 +1731,7 @@
             "Nightmare, The"
         ],
         "requires": [
-            "The Nightmare"
+            "|The Nightmare|"
         ],
         "place_item": [
             "The Nightmare Victory Token"
@@ -1744,7 +1744,7 @@
             "Nurse, The"
         ],
         "requires": [
-            "The Nurse"
+            "|The Nurse|"
         ]
     },
     {
@@ -1754,7 +1754,7 @@
             "Nurse, The"
         ],
         "requires": [
-            "The Nurse"
+            "|The Nurse|"
         ],
         "place_item": [
             "The Nurse Victory Token"
@@ -1767,7 +1767,7 @@
             "Oni, The"
         ],
         "requires": [
-            "The Oni"
+            "|The Oni|"
         ]
     },
     {
@@ -1777,7 +1777,7 @@
             "Oni, The"
         ],
         "requires": [
-            "The Oni"
+            "|The Oni|"
         ],
         "place_item": [
             "The Oni Victory Token"
@@ -1790,7 +1790,7 @@
             "Onryo, The"
         ],
         "requires": [
-            "The Onryo"
+            "|The Onryo|"
         ]
     },
     {
@@ -1800,7 +1800,7 @@
             "Onryo, The"
         ],
         "requires": [
-            "The Onryo"
+            "|The Onryo|"
         ],
         "place_item": [
             "The Onryo Victory Token"
@@ -1813,7 +1813,7 @@
             "Pig, The"
         ],
         "requires": [
-            "The Pig"
+            "|The Pig|"
         ]
     },
     {
@@ -1823,7 +1823,7 @@
             "Pig, The"
         ],
         "requires": [
-            "The Pig"
+            "|The Pig|"
         ],
         "place_item": [
             "The Pig Victory Token"
@@ -1836,7 +1836,7 @@
             "Plague, The"
         ],
         "requires": [
-            "The Plague"
+            "|The Plague|"
         ]
     },
     {
@@ -1846,7 +1846,7 @@
             "Plague, The"
         ],
         "requires": [
-            "The Plague"
+            "|The Plague|"
         ],
         "place_item": [
             "The Plague Victory Token"
@@ -1859,7 +1859,7 @@
             "Shape, The"
         ],
         "requires": [
-            "The Shape"
+            "|The Shape|"
         ]
     },
     {
@@ -1869,7 +1869,7 @@
             "Shape, The"
         ],
         "requires": [
-            "The Shape"
+            "|The Shape|"
         ],
         "place_item": [
             "The Shape Victory Token"
@@ -1882,7 +1882,7 @@
             "Singularity, The"
         ],
         "requires": [
-            "The Singularity"
+            "|The Singularity|"
         ]
     },
     {
@@ -1892,7 +1892,7 @@
             "Singularity, The"
         ],
         "requires": [
-            "The Singularity"
+            "|The Singularity|"
         ],
         "place_item": [
             "The Singularity Victory Token"
@@ -1905,7 +1905,7 @@
             "Skull Merchant, The"
         ],
         "requires": [
-            "The Skull Merchant"
+            "|The Skull Merchant|"
         ]
     },
     {
@@ -1915,7 +1915,7 @@
             "Skull Merchant, The"
         ],
         "requires": [
-            "The Skull Merchant"
+            "|The Skull Merchant|"
         ],
         "place_item": [
             "The Skull Merchant Victory Token"
@@ -1928,7 +1928,7 @@
             "Spirit, The"
         ],
         "requires": [
-            "The Spirit"
+            "|The Spirit|"
         ]
     },
     {
@@ -1938,7 +1938,7 @@
             "Spirit, The"
         ],
         "requires": [
-            "The Spirit"
+            "|The Spirit|"
         ],
         "place_item": [
             "The Spirit Victory Token"
@@ -1951,7 +1951,7 @@
             "Trapper, The"
         ],
         "requires": [
-            "The Trapper"
+            "|The Trapper|"
         ]
     },
     {
@@ -1961,7 +1961,7 @@
             "Trapper, The"
         ],
         "requires": [
-            "The Trapper"
+            "|The Trapper|"
         ],
         "place_item": [
             "The Trapper Victory Token"
@@ -1974,7 +1974,7 @@
             "Trickster, The"
         ],
         "requires": [
-            "The Trickster"
+            "|The Trickster|"
         ]
     },
     {
@@ -1984,7 +1984,7 @@
             "Trickster, The"
         ],
         "requires": [
-            "The Trickster"
+            "|The Trickster|"
         ],
         "place_item": [
             "The Trickster Victory Token"
@@ -1997,7 +1997,7 @@
             "Twins, The"
         ],
         "requires": [
-            "The Twins"
+            "|The Twins|"
         ]
     },
     {
@@ -2007,7 +2007,7 @@
             "Twins, The"
         ],
         "requires": [
-            "The Twins"
+            "|The Twins|"
         ],
         "place_item": [
             "The Twins Victory Token"
@@ -2020,7 +2020,7 @@
             "Unknown, The"
         ],
         "requires": [
-            "The Unknown"
+            "|The Unknown|"
         ]
     },
     {
@@ -2030,7 +2030,7 @@
             "Unknown, The"
         ],
         "requires": [
-            "The Unknown"
+            "|The Unknown|"
         ],
         "place_item": [
             "The Unknown Victory Token"
@@ -2043,7 +2043,7 @@
             "Wraith, The"
         ],
         "requires": [
-            "The Wraith"
+            "|The Wraith|"
         ]
     },
     {
@@ -2053,7 +2053,7 @@
             "Wraith, The"
         ],
         "requires": [
-            "The Wraith"
+            "|The Wraith|"
         ],
         "place_item": [
             "The Wraith Victory Token"
@@ -2066,7 +2066,7 @@
             "Xenomorph, The"
         ],
         "requires": [
-            "The Xenomorph"
+            "|The Xenomorph|"
         ]
     },
     {
@@ -2076,7 +2076,7 @@
             "Xenomorph, The"
         ],
         "requires": [
-            "The Xenomorph"
+            "|The Xenomorph|"
         ],
         "place_item": [
             "The Xenomorph Victory Token"
@@ -2089,7 +2089,7 @@
             "Ghost Face, The"
         ],
         "requires": [
-            "Thrilling Tremors"
+            "|Thrilling Tremors|"
         ]
     },
     {
@@ -2099,7 +2099,7 @@
             "Hillbilly, The"
         ],
         "requires": [
-            "Tinkerer"
+            "|Tinkerer|"
         ]
     },
     {
@@ -2109,7 +2109,7 @@
             "Executioner, The"
         ],
         "requires": [
-            "Trail of Torment"
+            "|Trail of Torment|"
         ]
     },
     {
@@ -2119,7 +2119,7 @@
             "Xenomorph, The"
         ],
         "requires": [
-            "Ultimate Weapon"
+            "|Ultimate Weapon|"
         ]
     },
     {
@@ -2129,7 +2129,7 @@
             "Unknown, The"
         ],
         "requires": [
-            "Unbound"
+            "|Unbound|"
         ]
     },
     {
@@ -2139,7 +2139,7 @@
             "Unknown, The"
         ],
         "requires": [
-            "Undone"
+            "|Undone|"
         ]
     },
     {
@@ -2149,7 +2149,7 @@
             "Unknown, The"
         ],
         "requires": [
-            "Unforeseen"
+            "|Unforeseen|"
         ]
     },
     {
@@ -2159,7 +2159,7 @@
             "Trapper, The"
         ],
         "requires": [
-            "Unnerving Presence"
+            "|Unnerving Presence|"
         ]
     },
     {
@@ -2169,7 +2169,7 @@
             "Base Perks"
         ],
         "requires": [
-            "Unrelenting"
+            "|Unrelenting|"
         ]
     },
     {
@@ -2179,7 +2179,7 @@
             "Lich, The"
         ],
         "requires": [
-            "Weave Attunement"
+            "|Weave Attunement|"
         ]
     },
     {
@@ -2189,7 +2189,7 @@
             "Base Perks"
         ],
         "requires": [
-            "Whispers"
+            "|Whispers|"
         ]
     },
     {
@@ -2199,7 +2199,7 @@
             "Oni, The"
         ],
         "requires": [
-            "Zanshin Tactics"
+            "|Zanshin Tactics|"
         ]
     }
 ]

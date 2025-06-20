@@ -1,0 +1,213 @@
+{
+    "Victory Tokens": {},
+    "Perk": {
+        "yaml_option": [
+            "perk_roulette"
+        ]
+    },
+    "Base Perks": {
+        "yaml_option": [
+            "include_general_perks"
+        ]
+    },
+    "Trapper, The": {
+        "yaml_option": [
+            "the_trapper"
+        ]
+    },
+    "Wraith, The": {
+        "yaml_option": [
+            "the_wraith"
+        ]
+    },
+    "Hillbilly, The": {
+        "yaml_option": [
+            "the_hillbilly"
+        ]
+    },
+    "Nurse, The": {
+        "yaml_option": [
+            "the_nurse"
+        ]
+    },
+    "Huntress, The": {
+        "yaml_option": [
+            "the_huntress"
+        ]
+    },
+    "Shape, The": {
+        "yaml_option": [
+            "the_shape"
+        ]
+    },
+    "Hag, The": {
+        "yaml_option": [
+            "the_hag"
+        ]
+    },
+    "Doctor, The": {
+        "yaml_option": [
+            "the_doctor"
+        ]
+    },
+    "Cannibal, The": {
+        "yaml_option": [
+            "the_cannibal"
+        ]
+    },
+    "Nightmare, The": {
+        "yaml_option": [
+            "the_nightmare"
+        ]
+    },
+    "Pig, The": {
+        "yaml_option": [
+            "the_pig"
+        ]
+    },
+    "Clown, The": {
+        "yaml_option": [
+            "the_clown"
+        ]
+    },
+    "Spirit, The": {
+        "yaml_option": [
+            "the_spirit"
+        ]
+    },
+    "Legion, The": {
+        "yaml_option": [
+            "the_legion"
+        ]
+    },
+    "Plague, The": {
+        "yaml_option": [
+            "the_plague"
+        ]
+    },
+    "Ghost Face, The": {
+        "yaml_option": [
+            "the_ghost_face"
+        ]
+    },
+    "Demogorgon, The": {
+        "yaml_option": [
+            "the_demogorgon"
+        ]
+    },
+    "Oni, The": {
+        "yaml_option": [
+            "the_oni"
+        ]
+    },
+    "Deathslinger, The": {
+        "yaml_option": [
+            "the_deathslinger"
+        ]
+    },
+    "Executioner, The": {
+        "yaml_option": [
+            "the_executioner"
+        ]
+    },
+    "Blight, The": {
+        "yaml_option": [
+            "the_blight"
+        ]
+    },
+    "Twins, The": {
+        "yaml_option": [
+            "the_twins"
+        ]
+    },
+    "Trickster, The": {
+        "yaml_option": [
+            "the_trickster"
+        ]
+    },
+    "Nemesis, The": {
+        "yaml_option": [
+            "the_nemesis"
+        ]
+    },
+    "Cenobite, The": {
+        "yaml_option": [
+            "the_cenobite"
+        ]
+    },
+    "Artist, The": {
+        "yaml_option": [
+            "the_artist"
+        ]
+    },
+    "Onryo, The": {
+        "yaml_option": [
+            "the_onryo"
+        ]
+    },
+    "Dredge, The": {
+        "yaml_option": [
+            "the_dredge"
+        ]
+    },
+    "Mastermind, The": {
+        "yaml_option": [
+            "the_mastermind"
+        ]
+    },
+    "Knight, The": {
+        "yaml_option": [
+            "the_knight"
+        ]
+    },
+    "Skull Merchant, The": {
+        "yaml_option": [
+            "the_skull_merchant"
+        ]
+    },
+    "Singularity, The": {
+        "yaml_option": [
+            "the_singularity"
+        ]
+    },
+    "Xenomorph, The": {
+        "yaml_option": [
+            "the_xenomorph"
+        ]
+    },
+    "Good Guy, The": {
+        "yaml_option": [
+            "the_good_guy"
+        ]
+    },
+    "Unknown, The": {
+        "yaml_option": [
+            "the_unknown"
+        ]
+    },
+    "Lich, The": {
+        "yaml_option": [
+            "the_lich"
+        ]
+    },
+    "Dark Lord, The": {
+        "yaml_option": [
+            "the_dark_lord"
+        ]
+    },
+    "Houndmaster, The": {
+        "yaml_option": [
+            "the_houndmaster"
+        ]
+    },
+    "Ghoul, The": {
+        "yaml_option": [
+            "the_ghoul"
+        ]
+    },
+    "Animatronic, The": {
+        "yaml_option": [
+            "the_animatronic"
+        ]
+    }
+}

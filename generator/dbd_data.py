@@ -98,17 +98,17 @@ _killers = {
     "The Ghoul": [
         "Forever Entwined",
         "Hex: Nothing But Misery",
-        "None Are Free"
+        "None Are Free",
     ],
     "The Animatronic": [
         "Phantom Fear",
         "Help Wanted",
-        "Haywire"
+        "Haywire",
     ],
     "The Krasue": [
         "Hex: Overture of Doom",
         "Ravenous",
-        "Wandering Eye"
+        "Wandering Eye",
     ]
 }
 

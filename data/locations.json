@@ -373,13 +373,13 @@
             "|Friends 'til the End|"
     },
     {
-        "name": "Furitive Chase Victory",
+        "name": "furtive Chase Victory",
         "category": [
             "Perk",
             "Ghost Face, The"
         ],
         "requires" :  
-            "|Furitive Chase|"
+            "|furtive Chase|"
     },
     {
         "name": "Game Afoot Victory",

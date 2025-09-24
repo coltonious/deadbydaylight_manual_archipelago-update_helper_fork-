@@ -144,7 +144,7 @@ class ThePlague(DefaultOnToggle):
 
 
 class TheGhostFace(DefaultOnToggle):
-    """Include The Ghost Face and their perks (I'm All Ears, Thrilling Tremors, Furitive Chase) as items and locations"""
+    """Include The Ghost Face and their perks (I'm All Ears, Thrilling Tremors, furtive Chase) as items and locations"""
 
     display_name = "Include The Ghost Face"
 

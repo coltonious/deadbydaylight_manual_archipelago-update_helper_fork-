@@ -48,7 +48,7 @@ _killers = {
         "Infectious Fright",
         "Dark Devotion",
     ],
-    "The Ghost Face": ["I'm All Ears", "Thrilling Tremors", "Furitive Chase"],
+    "The Ghost Face": ["I'm All Ears", "Thrilling Tremors", "furtive Chase"],
     "The Demogorgon": ["Surge", "Mindbreaker", "Cruel Limits"],
     "The Oni": ["Zanshin Tactics", "Blood Echo", "Nemesis"],
     "The Deathslinger": ["Gearhead", "Dead Man's Switch", "Hex: Retribution"],

@@ -526,6 +526,15 @@
             "|Hex - Nothing But Misery|"
     },
     {
+        "name": "Hex - Overture of Doom victory",
+        "category": [
+            "Perk",
+            "Krasue, The"
+        ],
+        "requires" :  
+            "|Hex - Overture of Doom|"
+    },
+    {
         "name": "Hex - Pentimento Victory",
         "category": [
             "Perk",
@@ -929,6 +938,15 @@
         ],
         "requires" :  
             "|Rancor|"
+    },
+    {
+        "name": "Ravenous Victory",
+        "category": [
+            "Perk",
+            "Krasue, The"
+        ],
+        "requires" :
+            "|Ravenous|"
     },
     {
         "name": "Rapid Brutality Victory",
@@ -1513,6 +1531,27 @@
         ]
     },
     {
+        "name": "The Krasue Victory",
+        "category": [
+            "Killer",
+            "Krasue, The"
+        ],
+        "place_item" :  
+            "|The Krasue|"
+    },
+    {
+        "name": "The Krasue Victory Token",
+        "category": [
+            "Killer",
+            "Krasue, The"
+        ],
+        "requires" :  
+            "|The Krasue|",
+        "place_item": [
+            "The Krasue Victory Token"
+        ]
+    },
+    {
         "name": "The Legion Victory",
         "category": [
             "Killer",
@@ -2012,6 +2051,15 @@
         ],
         "requires" :  
             "|Unrelenting|"
+    },
+    {
+        "name": "Wandering Eye Victory",
+        "category": [
+            "Perk",
+            "Krasue, The"
+        ],
+        "requires" :  
+            "|Wandering Eye|"
     },
     {
         "name": "Weave Attunement Victory",

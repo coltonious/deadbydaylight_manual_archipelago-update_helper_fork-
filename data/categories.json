@@ -209,5 +209,10 @@
         "yaml_option": [
             "the_animatronic"
         ]
+    },
+    "Krasue, The": {
+        "yaml_option": [
+            "the_krasue"
+        ]
     }
 }

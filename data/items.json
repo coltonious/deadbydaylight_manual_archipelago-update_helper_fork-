@@ -464,6 +464,14 @@
         "progression": true
     },
     {
+        "name": "Hex - Overture of Doom",
+        "category": [
+            "Perk",
+            "Krasue, The"
+        ],
+        "progression": true
+    },
+    {
         "name": "Hex - Pentimento",
         "category": [
             "Perk",
@@ -828,6 +836,14 @@
         "category": [
             "Perk",
             "Xenomorph, The"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Ravenous",
+        "category": [
+            "Perk",
+            "Krasue, The"
         ],
         "progression": true
     },
@@ -1288,6 +1304,22 @@
         "progression": true
     },
     {
+        "name": "The Krasue",
+        "category": [
+            "Killer",
+            "Krasue, The"
+        ],
+        "progression": true
+    },
+    {
+        "name": "The Krasue Victory Token",
+        "category": [
+            "Victory Tokens",
+            "Krasue, The"
+        ],
+        "progression": true
+    },
+    {
         "name": "The Legion",
         "category": [
             "Killer",
@@ -1676,6 +1708,14 @@
         "category": [
             "Base Perks",
             "Perk"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Wandering Eye",
+        "category": [
+            "Perk",
+            "Krasue, The"
         ],
         "progression": true
     },

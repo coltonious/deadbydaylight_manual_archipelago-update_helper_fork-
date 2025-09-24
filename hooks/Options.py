@@ -289,6 +289,10 @@ class TheAnimatronic(DefaultOnToggle):
     """Include The Animatronic and their perks (Phantom Fear, Help Wanted, Haywire) as items and locations"""
     display_name = "Include The Animatronic"
 
+class TheKrasue(DefaultOnToggle):
+    """Include The Krasue and their perks (Hex: Overture of Doom, Ravenous, Wandering Eye) as items and locations"""
+    display_name = "Include The Krasue"
+
 # end generated
 
 

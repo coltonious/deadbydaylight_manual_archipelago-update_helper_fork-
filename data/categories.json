@@ -214,5 +214,10 @@
         "yaml_option": [
             "the_krasue"
         ]
+    },
+    "First, The": {
+        "yaml_option": [
+            "the_first"
+        ]
     }
 }

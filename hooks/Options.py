@@ -293,6 +293,10 @@ class TheKrasue(DefaultOnToggle):
     """Include The Krasue and their perks (Hex: Overture of Doom, Ravenous, Wandering Eye) as items and locations"""
     display_name = "Include The Krasue"
 
+class TheFirst(DefaultOnToggle):
+    """Include The First and their perks (Turn Back the Clock, Secret Project, Hex: Hive Mind) as items and locations"""
+    display_name = "Include The First"
+
 # end generated
 
 

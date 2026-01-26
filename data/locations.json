@@ -499,6 +499,15 @@
             "|Hex - Haunted Ground|"
     },
     {
+        "name": "Hex - Hive Mind",
+        "category": [
+            "Perk",
+            "First, The"
+        ],
+        "requires" :  
+            "|Hex - Hive Mind|"
+    },
+    {
         "name": "Hex - Huntress Lullaby Victory",
         "category": [
             "Perk",
@@ -976,6 +985,15 @@
             "|Save the Best for Last|"
     },
     {
+        "name": "Secret Project Victory",
+        "category": [
+            "Perk",
+            "First, The"
+        ],
+        "requires" :  
+            "|Secret Project|"
+    },
+    {
         "name": "Septic Touch Victory",
         "category": [
             "Perk",
@@ -1360,6 +1378,27 @@
             "|The Executioner|",
         "place_item": [
             "The Executioner Victory Token"
+        ]
+    },
+    {
+        "name": "The First Victory",
+        "category": [
+            "Killer",
+            "First, The"
+        ],
+        "requires" :  
+            "|The First|"
+    },
+    {
+        "name": "The First Victory Token",
+        "category": [
+            "Killer",
+            "First, The"
+        ],
+        "requires" :  
+            "|The First|",
+        "place_item": [
+            "The First Victory Token"
         ]
     },
     {
@@ -1997,6 +2036,15 @@
         ],
         "requires" :  
             "|Trail of Torment|"
+    },
+    {
+        "name": "Turn Back the Clock Victory",
+        "category": [
+            "Perk",
+            "First, The"
+        ],
+        "requires" :  
+            "|Turn Back the Clock|"
     },
     {
         "name": "Ultimate Weapon Victory",

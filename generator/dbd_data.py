@@ -109,7 +109,12 @@ _killers = {
         "Hex: Overture of Doom",
         "Ravenous",
         "Wandering Eye",
-    ]
+    ],
+    "The First": [
+        "Turn Back the Clock",
+        "Secret Project",
+        "Hex: Hive Mind",
+    ],
 }
 
 

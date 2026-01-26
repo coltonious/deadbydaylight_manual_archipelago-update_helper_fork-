@@ -440,6 +440,14 @@
         "progression": true
     },
     {
+        "name": "Hex - Hive Mind",
+        "category": [
+            "Perk",
+            "First, The"
+        ],
+        "progression": true
+    },
+    {
         "name": "Hex - Huntress Lullaby",
         "category": [
             "Perk",
@@ -864,6 +872,14 @@
         "progression": true
     },
     {
+        "name": "Secret Project",
+        "category": [
+            "Perk",
+            "First, The"
+        ],
+        "progression": true
+    },
+    {
         "name": "Septic Touch",
         "category": [
             "Perk",
@@ -1172,6 +1188,22 @@
         "category": [
             "Victory Tokens",
             "Executioner, The"
+        ],
+        "progression": true
+    },
+    {
+        "name": "The First",
+        "category": [
+            "Killer",
+            "First, The"
+        ],
+        "progression": true
+    },
+    {
+        "name": "The First Victory Token",
+        "category": [
+            "Victory Tokens",
+            "First, The"
         ],
         "progression": true
     },
@@ -1660,6 +1692,14 @@
         "category": [
             "Perk",
             "Executioner, The"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Turn Back the Clock",
+        "category": [
+            "Perk",
+            "First, The"
         ],
         "progression": true
     },

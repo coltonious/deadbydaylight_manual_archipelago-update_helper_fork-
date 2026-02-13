@@ -5,7 +5,8 @@
             "Perk",
             "Nurse, The"
         ],
-        "requires": "|A Nurse's Calling|"
+        "requires": "|A Nurse's Calling|",
+        "region": "perks"
     },
     {
         "name": "Agitation Victory",
@@ -13,7 +14,8 @@
             "Perk",
             "Trapper, The"
         ],
-        "requires" :  "|Agitation|"
+        "requires" :  "|Agitation|",
+        "region": "perks"
     },
     {
         "name": "Alien Instinct Victory",
@@ -22,7 +24,8 @@
             "Xenomorph, The"
         ],
         "requires" :  
-            "|Alien Instinct|"
+            "|Alien Instinct|",
+        "region": "perks"
     },
     {
         "name": "All-Shaking Thunder Victory",
@@ -31,7 +34,8 @@
             "Houndmaster, The"
         ],
         "requires" :  
-            "|All-Shaking Thunder|"
+            "|All-Shaking Thunder|",
+        "region": "perks"
     },
     {
         "name": "Awakened Awareness Victory",
@@ -40,7 +44,8 @@
             "Mastermind, The"
         ],
         "requires" :  
-            "|Awakened Awareness|"
+            "|Awakened Awareness|",
+        "region": "perks"
     },
     {
         "name": "Bamboozle Victory",
@@ -49,7 +54,8 @@
             "Clown, The"
         ],
         "requires" :  
-            "|Bamboozle|"
+            "|Bamboozle|",
+        "region": "perks"
     },
     {
         "name": "Barbecue & Chilli Victory",
@@ -58,7 +64,8 @@
             "Cannibal, The"
         ],
         "requires" :  
-            "|Barbecue & Chilli|"
+            "|Barbecue & Chilli|",
+        "region": "perks"
     },
     {
         "name": "Batteries Included Victory",
@@ -67,7 +74,8 @@
             "Good Guy, The"
         ],
         "requires" :  
-            "|Batteries Included|"
+            "|Batteries Included|",
+        "region": "perks"
     },
     {
         "name": "Beast of Prey Victory",
@@ -76,7 +84,8 @@
             "Huntress, The"
         ],
         "requires" :  
-            "|Beast of Prey|"
+            "|Beast of Prey|",
+        "region": "perks"
     },
     {
         "name": "Bitter Murmur Victory",
@@ -85,7 +94,8 @@
             "Base Perks"
         ],
         "requires" :  
-            "|Bitter Murmur|"
+            "|Bitter Murmur|",
+        "region": "perks"
     },
     {
         "name": "Blood Echo Victory",
@@ -94,7 +104,8 @@
             "Oni, The"
         ],
         "requires" :  
-            "|Blood Echo|"
+            "|Blood Echo|",
+        "region": "perks"
     },
     {
         "name": "Blood Warden Victory",
@@ -103,7 +114,8 @@
             "Nightmare, The"
         ],
         "requires" :  
-            "|Blood Warden|"
+            "|Blood Warden|",
+        "region": "perks"
     },
     {
         "name": "Bloodhound Victory",
@@ -112,7 +124,8 @@
             "Wraith, The"
         ],
         "requires" :  
-            "|Bloodhound|"
+            "|Bloodhound|",
+        "region": "perks"
     },
     {
         "name": "Brutal Strength Victory",
@@ -121,7 +134,8 @@
             "Trapper, The"
         ],
         "requires" :  
-            "|Brutal Strength|"
+            "|Brutal Strength|",
+        "region": "perks"
     },
     {
         "name": "Call of Brine Victory",
@@ -130,7 +144,8 @@
             "Onryo, The"
         ],
         "requires" :  
-            "|Call of Brine|"
+            "|Call of Brine|",
+        "region": "perks"
     },
     {
         "name": "Corrupt Intervention Victory",
@@ -139,7 +154,8 @@
             "Plague, The"
         ],
         "requires" :  
-            "|Corrupt Intervention|"
+            "|Corrupt Intervention|",
+        "region": "perks"
     },
     {
         "name": "Coulrophobia Victory",
@@ -148,7 +164,8 @@
             "Clown, The"
         ],
         "requires" :  
-            "|Coulrophobia|"
+            "|Coulrophobia|",
+        "region": "perks"
     },
     {
         "name": "Coup de Grace Victory",
@@ -157,7 +174,8 @@
             "Twins, The"
         ],
         "requires" :  
-            "|Coup de Grace|"
+            "|Coup de Grace|",
+        "region": "perks"
     },
     {
         "name": "Cruel Limits Victory",
@@ -166,7 +184,8 @@
             "Demogorgon, The"
         ],
         "requires" :  
-            "|Cruel Limits|"
+            "|Cruel Limits|",
+        "region": "perks"
     },
     {
         "name": "Dark Arrogance Victory",
@@ -175,7 +194,8 @@
             "Lich, The"
         ],
         "requires" :  
-            "|Dark Arrogance|"
+            "|Dark Arrogance|",
+        "region": "perks"
     },
     {
         "name": "Dark Devotion Victory",
@@ -184,7 +204,8 @@
             "Plague, The"
         ],
         "requires" :  
-            "|Dark Devotion|"
+            "|Dark Devotion|",
+        "region": "perks"
     },
     {
         "name": "Darkness Revealed Victory",
@@ -193,7 +214,8 @@
             "Dredge, The"
         ],
         "requires" :  
-            "|Darkness Revealed|"
+            "|Darkness Revealed|",
+        "region": "perks"
     },
     {
         "name": "Dead Man's Switch Victory",
@@ -202,7 +224,8 @@
             "Deathslinger, The"
         ],
         "requires" :  
-            "|Dead Man's Switch|"
+            "|Dead Man's Switch|",
+        "region": "perks"
     },
     {
         "name": "Deadlock Victory",
@@ -211,7 +234,8 @@
             "Cenobite, The"
         ],
         "requires" :  
-            "|Deadlock|"
+            "|Deadlock|",
+        "region": "perks"
     },
     {
         "name": "Deathbound Victory",
@@ -220,7 +244,8 @@
             "Executioner, The"
         ],
         "requires" :  
-            "|Deathbound|"
+            "|Deathbound|",
+        "region": "perks"
     },
     {
         "name": "Deerstalker Victory",
@@ -229,7 +254,8 @@
             "Base Perks"
         ],
         "requires" :  
-            "|Deerstalker|"
+            "|Deerstalker|",
+        "region": "perks"
     },
     {
         "name": "Discordance Victory",
@@ -238,7 +264,8 @@
             "Legion, The"
         ],
         "requires" :  
-            "|Discordance|"
+            "|Discordance|",
+        "region": "perks"
     },
     {
         "name": "Dissolution Victory",
@@ -247,7 +274,8 @@
             "Dredge, The"
         ],
         "requires" :  
-            "|Dissolution|"
+            "|Dissolution|",
+        "region": "perks"
     },
     {
         "name": "Distressing Victory",
@@ -256,7 +284,8 @@
             "Base Perks"
         ],
         "requires" :  
-            "|Distressing|"
+            "|Distressing|",
+        "region": "perks"
     },
     {
         "name": "Dominance Victory",
@@ -265,7 +294,8 @@
             "Dark Lord, The"
         ],
         "requires" :  
-            "|Dominance|"
+            "|Dominance|",
+        "region": "perks"
     },
     {
         "name": "Dragon's Grip Victory",
@@ -274,7 +304,8 @@
             "Blight, The"
         ],
         "requires" :  
-            "|Dragon's Grip|"
+            "|Dragon's Grip|",
+        "region": "perks"
     },
     {
         "name": "Dying Light Victory",
@@ -283,7 +314,8 @@
             "Shape, The"
         ],
         "requires" :  
-            "|Dying Light|"
+            "|Dying Light|",
+        "region": "perks"
     },
     {
         "name": "Enduring Victory",
@@ -292,7 +324,8 @@
             "Hillbilly, The|"
         ],
         "requires" :  
-            "|Enduring|"
+            "|Enduring|",
+        "region": "perks"
     },
     {
         "name": "Entity Pleased",
@@ -307,7 +340,8 @@
             "Nemesis, The"
         ],
         "requires" :  
-            "|Eruption|"
+            "|Eruption|",
+        "region": "perks"
     },
     {
         "name": "Fire Up Victory",
@@ -316,7 +350,8 @@
             "Nightmare, The"
         ],
         "requires" :  
-            "|Fire Up|"
+            "|Fire Up|",
+        "region": "perks"
     },
     {
         "name": "Floods of Rage Victory",
@@ -325,7 +360,8 @@
             "Onryo, The"
         ],
         "requires" :  
-            "|Floods of Rage|"
+            "|Floods of Rage|",
+        "region": "perks"
     },
     {
         "name": "Forced Hesitation Victory",
@@ -334,7 +370,8 @@
             "Singularity, The"
         ],
         "requires" :  
-            "|Forced Hesitation|"
+            "|Forced Hesitation|",
+        "region": "perks"
     },
     {
         "name": "Forced Penance Victory",
@@ -343,7 +380,8 @@
             "Executioner, The"
         ],
         "requires" :  
-            "|Forced Penance|"
+            "|Forced Penance|",
+        "region": "perks"
     },
     {
         "name": "Forever Entwined Victory",
@@ -352,7 +390,8 @@
             "Ghoul, The"
         ],
         "requires" :  
-            "|Forever Entwined|"
+            "|Forever Entwined|",
+        "region": "perks"
     },
     {
         "name": "Franklin's Demise Victory",
@@ -361,7 +400,8 @@
             "Cannibal, The"
         ],
         "requires" :  
-            "|Franklin's Demise|"
+            "|Franklin's Demise|",
+        "region": "perks"
     },
     {
         "name": "Friends 'til the End Victory",
@@ -370,16 +410,18 @@
             "Good Guy, The"
         ],
         "requires" :  
-            "|Friends 'til the End|"
+            "|Friends 'til the End|",
+        "region": "perks"
     },
     {
-        "name": "furtive Chase Victory",
+        "name": "Furtive Chase Victory",
         "category": [
             "Perk",
             "Ghost Face, The"
         ],
         "requires" :  
-            "|furtive Chase|"
+            "|furtive Chase|",
+        "region": "perks"
     },
     {
         "name": "Game Afoot Victory",
@@ -388,7 +430,8 @@
             "Skull Merchant, The"
         ],
         "requires" :  
-            "|Game Afoot|"
+            "|Game Afoot|",
+        "region": "perks"
     },
     {
         "name": "Gearhead Victory",
@@ -397,7 +440,8 @@
             "Deathslinger, The"
         ],
         "requires" :  
-            "|Gearhead|"
+            "|Gearhead|",
+        "region": "perks"
     },
     {
         "name": "Genetic Limits Victory",
@@ -406,7 +450,8 @@
             "Singularity, The"
         ],
         "requires" :  
-            "|Genetic Limits|"
+            "|Genetic Limits|",
+        "region": "perks"
     },
     {
         "name": "Gift of Pain Victory",
@@ -415,7 +460,8 @@
             "Cenobite, The"
         ],
         "requires" :  
-            "|Gift of Pain|"
+            "|Gift of Pain|",
+        "region": "perks"
     },
     {
         "name": "Grim Embrace Victory",
@@ -424,7 +470,8 @@
             "Artist, The"
         ],
         "requires" :  
-            "|Grim Embrace|"
+            "|Grim Embrace|",
+        "region": "perks"
     },
     {
         "name": "Hangman's Trick Victory",
@@ -433,7 +480,8 @@
             "Pig, The"
         ],
         "requires" :  
-            "|Hangman's Trick|"
+            "|Hangman's Trick|",
+        "region": "perks"
     },
     {
         "name": "Haywire Victory",
@@ -442,7 +490,8 @@
             "Animatronic, The"
         ],
         "requires" :  
-            "|Haywire|"
+            "|Haywire|",
+        "region": "perks"
     },
     {
         "name": "Help Wanted Victory",
@@ -451,7 +500,8 @@
             "Animatronic, The"
         ],
         "requires" :  
-            "|Help Wanted|"
+            "|Help Wanted|",
+        "region": "perks"
     },
     {
         "name": "Hex - Blood Favor Victory",
@@ -460,7 +510,8 @@
             "Blight, The"
         ],
         "requires" :  
-            "|Hex - Blood Favor|"
+            "|Hex - Blood Favor|",
+        "region": "perks"
     },
     {
         "name": "Hex - Crowd Control Victory",
@@ -469,7 +520,8 @@
             "Trickster, The"
         ],
         "requires" :  
-            "|Hex - Crowd Control|"
+            "|Hex - Crowd Control|",
+        "region": "perks"
     },
     {
         "name": "Hex - Devour Hope Victory",
@@ -478,7 +530,8 @@
             "Hag, The"
         ],
         "requires" :  
-            "|Hex - Devour Hope|"
+            "|Hex - Devour Hope|",
+        "region": "perks"
     },
     {
         "name": "Hex - Face the Darkness Victory",
@@ -487,7 +540,8 @@
             "Knight, The"
         ],
         "requires" :  
-            "|Hex - Face the Darkness|"
+            "|Hex - Face the Darkness|",
+        "region": "perks"
     },
     {
         "name": "Hex - Haunted Ground Victory",
@@ -496,7 +550,8 @@
             "Spirit, The"
         ],
         "requires" :  
-            "|Hex - Haunted Ground|"
+            "|Hex - Haunted Ground|",
+        "region": "perks"
     },
     {
         "name": "Hex - Hive Mind",
@@ -505,7 +560,8 @@
             "First, The"
         ],
         "requires" :  
-            "|Hex - Hive Mind|"
+            "|Hex - Hive Mind|",
+        "region": "perks"
     },
     {
         "name": "Hex - Huntress Lullaby Victory",
@@ -514,7 +570,8 @@
             "Huntress, The"
         ],
         "requires" :  
-            "|Hex - Huntress Lullaby|"
+            "|Hex - Huntress Lullaby|",
+        "region": "perks"
     },
     {
         "name": "Hex - No One Escapes Death Victory",
@@ -523,7 +580,8 @@
             "Base Perks"
         ],
         "requires" :  
-            "|Hex - No One Escapes Death|"
+            "|Hex - No One Escapes Death|",
+        "region": "perks"
     },
     {
         "name": "Hex - Nothing But Misery Victory",
@@ -532,7 +590,8 @@
             "Ghoul, The"
         ],
         "requires" :  
-            "|Hex - Nothing But Misery|"
+            "|Hex - Nothing But Misery|",
+        "region": "perks"
     },
     {
         "name": "Hex - Overture of Doom victory",
@@ -541,7 +600,8 @@
             "Krasue, The"
         ],
         "requires" :  
-            "|Hex - Overture of Doom|"
+            "|Hex - Overture of Doom|",
+        "region": "perks"
     },
     {
         "name": "Hex - Pentimento Victory",
@@ -550,7 +610,8 @@
             "Artist, The"
         ],
         "requires" :  
-            "|Hex - Pentimento|"
+            "|Hex - Pentimento|",
+        "region": "perks"
     },
     {
         "name": "Hex - Plaything Victory",
@@ -559,7 +620,8 @@
             "Cenobite, The"
         ],
         "requires" :  
-            "|Hex - Plaything|"
+            "|Hex - Plaything|",
+        "region": "perks"
     },
     {
         "name": "Hex - Retribution Victory",
@@ -568,7 +630,8 @@
             "Deathslinger, The"
         ],
         "requires" :  
-            "|Hex - Retribution|"
+            "|Hex - Retribution|",
+        "region": "perks"
     },
     {
         "name": "Hex - Ruin Victory",
@@ -577,7 +640,8 @@
             "Hag, The"
         ],
         "requires" :  
-            "|Hex - Ruin|"
+            "|Hex - Ruin|",
+        "region": "perks"
     },
     {
         "name": "Hex - The Third Seal Victory",
@@ -586,7 +650,8 @@
             "Hag, The"
         ],
         "requires" :  
-            "|Hex - The Third Seal|"
+            "|Hex - The Third Seal|",
+        "region": "perks"
     },
     {
         "name": "Hex - Thrill of the Hunt Victory",
@@ -595,7 +660,8 @@
             "Base Perks"
         ],
         "requires" :  
-            "|Hex - Thrill of the Hunt|"
+            "|Hex - Thrill of the Hunt|",
+        "region": "perks"
     },
     {
         "name": "Hex - Two Can Play Victory",
@@ -604,7 +670,8 @@
             "Good Guy, The"
         ],
         "requires" :  
-            "|Hex - Two Can Play|"
+            "|Hex - Two Can Play|",
+        "region": "perks"
     },
     {
         "name": "Hex - Undying Victory",
@@ -613,7 +680,8 @@
             "Blight, The"
         ],
         "requires" :  
-            "|Hex - Undying|"
+            "|Hex - Undying|",
+        "region": "perks"
     },
     {
         "name": "Hex - Wretched Fate Victory",
@@ -622,7 +690,8 @@
             "Dark Lord, The"
         ],
         "requires" :  
-            "|Hex - Wretched Fate|"
+            "|Hex - Wretched Fate|",
+        "region": "perks"
     },
     {
         "name": "Hoarder Victory",
@@ -631,7 +700,8 @@
             "Twins, The"
         ],
         "requires" :  
-            "|Hoarder|"
+            "|Hoarder|",
+        "region": "perks"
     },
     {
         "name": "Hubris Victory",
@@ -640,7 +710,8 @@
             "Knight, The"
         ],
         "requires" :  
-            "|Hubris|"
+            "|Hubris|",
+        "region": "perks"
     },
     {
         "name": "Human Greed Victory",
@@ -649,7 +720,8 @@
             "Dark Lord, The"
         ],
         "requires" :  
-            "|Human Greed|"
+            "|Human Greed|",
+        "region": "perks"
     },
     {
         "name": "Hysteria Victory",
@@ -658,7 +730,8 @@
             "Nemesis, The"
         ],
         "requires" :  
-            "|Hysteria|"
+            "|Hysteria|",
+        "region": "perks"
     },
     {
         "name": "I'm All Ears Victory",
@@ -667,7 +740,8 @@
             "Ghost Face, The"
         ],
         "requires" :  
-            "|I'm All Ears|"
+            "|I'm All Ears|",
+        "region": "perks"
     },
     {
         "name": "Infectious Fright Victory",
@@ -676,7 +750,8 @@
             "Plague, The"
         ],
         "requires" :  
-            "|Infectious Fright|"
+            "|Infectious Fright|",
+        "region": "perks"
     },
     {
         "name": "Insidious Victory",
@@ -685,7 +760,8 @@
             "Base Perks"
         ],
         "requires" :  
-            "|Insidious|"
+            "|Insidious|",
+        "region": "perks"
     },
     {
         "name": "Iron Grasp Victory",
@@ -694,7 +770,8 @@
             "Base Perks"
         ],
         "requires" :  
-            "|Iron Grasp|"
+            "|Iron Grasp|",
+        "region": "perks"
     },
     {
         "name": "Iron Maiden Victory",
@@ -703,7 +780,8 @@
             "Legion, The"
         ],
         "requires" :  
-            "|Iron Maiden|"
+            "|Iron Maiden|",
+        "region": "perks"
     },
     {
         "name": "Jagged Compass Victory",
@@ -712,7 +790,8 @@
             "Houndmaster, The"
         ],
         "requires" :  
-            "|Jagged Compass|"
+            "|Jagged Compass|",
+        "region": "perks"
     },
     {
         "name": "Knockout Victory",
@@ -721,7 +800,8 @@
             "Cannibal, The"
         ],
         "requires" :  
-            "|Knockout|"
+            "|Knockout|",
+        "region": "perks"
     },
     {
         "name": "Languid Touch Victory",
@@ -730,7 +810,8 @@
             "Lich, The"
         ],
         "requires" :  
-            "|Languid Touch|"
+            "|Languid Touch|",
+        "region": "perks"
     },
     {
         "name": "Lethal Pursuer Victory",
@@ -739,7 +820,8 @@
             "Nemesis, The"
         ],
         "requires" :  
-            "|Lethal Pursuer|"
+            "|Lethal Pursuer|",
+        "region": "perks"
     },
     {
         "name": "Leverage Victory",
@@ -748,7 +830,8 @@
             "Skull Merchant, The"
         ],
         "requires" :  
-            "|Leverage|"
+            "|Leverage|",
+        "region": "perks"
     },
     {
         "name": "Lightborn Victory",
@@ -757,7 +840,8 @@
             "Hillbilly, The"
         ],
         "requires" :  
-            "|Lightborn|"
+            "|Lightborn|",
+        "region": "perks"
     },
     {
         "name": "Machine Learning Victory",
@@ -766,7 +850,8 @@
             "Singularity, The"
         ],
         "requires" :  
-            "|Machine Learning|"
+            "|Machine Learning|",
+        "region": "perks"
     },
     {
         "name": "Mad Grit Victory",
@@ -775,7 +860,8 @@
             "Legion, The"
         ],
         "requires" :  
-            "|Mad Grit|"
+            "|Mad Grit|",
+        "region": "perks"
     },
     {
         "name": "Make Your Choice Victory",
@@ -784,7 +870,8 @@
             "Pig, The"
         ],
         "requires" :  
-            "|Make Your Choice|"
+            "|Make Your Choice|",
+        "region": "perks"
     },
     {
         "name": "Merciless Storm Victory",
@@ -793,7 +880,8 @@
             "Onryo, The"
         ],
         "requires" :  
-            "|Merciless Storm|"
+            "|Merciless Storm|",
+        "region": "perks"
     },
     {
         "name": "Mindbreaker Victory",
@@ -802,7 +890,8 @@
             "Demogorgon, The"
         ],
         "requires" :  
-            "|Mindbreaker|"
+            "|Mindbreaker|",
+        "region": "perks"
     },
     {
         "name": "Monitor & Abuse Victory",
@@ -811,7 +900,8 @@
             "Doctor, The"
         ],
         "requires" :  
-            "|Monitor & Abuse|"
+            "|Monitor & Abuse|",
+        "region": "perks"
     },
     {
         "name": "Monstrous Shrine Victory",
@@ -820,7 +910,8 @@
             "Base Perks"
         ],
         "requires" :  
-            "|Monstrous Shrine|"
+            "|Monstrous Shrine|",
+        "region": "perks"
     },
     {
         "name": "Nemesis Victory",
@@ -829,7 +920,8 @@
             "Oni, The"
         ],
         "requires" :  
-            "|Nemesis|"
+            "|Nemesis|",
+        "region": "perks"
     },
     {
         "name": "No Quarter Victory",
@@ -838,7 +930,8 @@
             "Houndmaster, The"
         ],
         "requires" :  
-            "|No Quarter|"
+            "|No Quarter|",
+        "region": "perks"
     },
     {
         "name": "No Way Out Victory",
@@ -847,7 +940,8 @@
             "Trickster, The"
         ],
         "requires" :  
-            "|No Way Out|"
+            "|No Way Out|",
+        "region": "perks"
     },
     {
         "name": "None Are Free Victory",
@@ -856,7 +950,8 @@
             "Ghoul, The"
         ],
         "requires" :  
-            "|None Are Free|"
+            "|None Are Free|",
+        "region": "perks"
     },
     {
         "name": "Nowhere to Hide Victory",
@@ -865,7 +960,8 @@
             "Knight, The"
         ],
         "requires" :  
-            "|Nowhere to Hide|"
+            "|Nowhere to Hide|",
+        "region": "perks"
     },
     {
         "name": "Oppression Victory",
@@ -874,7 +970,8 @@
             "Twins, The"
         ],
         "requires" :  
-            "|Oppression|"
+            "|Oppression|",
+        "region": "perks"
     },
     {
         "name": "Overcharge Victory",
@@ -883,7 +980,8 @@
             "Doctor, The"
         ],
         "requires" :  
-            "|Overcharge|"
+            "|Overcharge|",
+        "region": "perks"
     },
     {
         "name": "Overwhelming Presence Victory",
@@ -892,7 +990,8 @@
             "Doctor, The"
         ],
         "requires" :  
-            "|Overwhelming Presence|"
+            "|Overwhelming Presence|",
+        "region": "perks"
     },
     {
         "name": "Pain Resonance Victory",
@@ -901,7 +1000,8 @@
             "Artist, The"
         ],
         "requires" :  
-            "|Pain Resonance|"
+            "|Pain Resonance|",
+        "region": "perks"
     },
     {
         "name": "Phantom Fear Victory",
@@ -910,7 +1010,8 @@
             "Animatronic, The"
         ],
         "requires" :  
-            "|Phantom Fear|"
+            "|Phantom Fear|",
+        "region": "perks"
     },
     {
         "name": "Play With Your Food Victory",
@@ -919,7 +1020,8 @@
             "Shape, The"
         ],
         "requires" :  
-            "|Play With Your Food|"
+            "|Play With Your Food|",
+        "region": "perks"
     },
     {
         "name": "Pop Goes The Weasel Victory",
@@ -928,7 +1030,8 @@
             "Clown, The"
         ],
         "requires" :  
-            "|Pop Goes The Weasel|"
+            "|Pop Goes The Weasel|",
+        "region": "perks"
     },
     {
         "name": "Predator Victory",
@@ -937,7 +1040,8 @@
             "Wraith, The"
         ],
         "requires" :  
-            "|Predator|"
+            "|Predator|",
+        "region": "perks"
     },
     {
         "name": "Rancor Victory",
@@ -946,7 +1050,8 @@
             "Spirit, The"
         ],
         "requires" :  
-            "|Rancor|"
+            "|Rancor|",
+        "region": "perks"
     },
     {
         "name": "Ravenous Victory",
@@ -955,7 +1060,8 @@
             "Krasue, The"
         ],
         "requires" :
-            "|Ravenous|"
+            "|Ravenous|",
+        "region": "perks"
     },
     {
         "name": "Rapid Brutality Victory",
@@ -964,7 +1070,8 @@
             "Xenomorph, The"
         ],
         "requires" :  
-            "|Rapid Brutality|"
+            "|Rapid Brutality|",
+        "region": "perks"
     },
     {
         "name": "Remember Me Victory",
@@ -973,7 +1080,8 @@
             "Nightmare, The"
         ],
         "requires" :  
-            "|Remember Me|"
+            "|Remember Me|",
+        "region": "perks"
     },
     {
         "name": "Save the Best for Last Victory",
@@ -982,7 +1090,8 @@
             "Shape, The"
         ],
         "requires" :  
-            "|Save the Best for Last|"
+            "|Save the Best for Last|",
+        "region": "perks"
     },
     {
         "name": "Secret Project Victory",
@@ -991,7 +1100,8 @@
             "First, The"
         ],
         "requires" :  
-            "|Secret Project|"
+            "|Secret Project|",
+        "region": "perks"
     },
     {
         "name": "Septic Touch Victory",
@@ -1000,7 +1110,8 @@
             "Dredge, The"
         ],
         "requires" :  
-            "|Septic Touch|"
+            "|Septic Touch|",
+        "region": "perks"
     },
     {
         "name": "Shadowborn Victory",
@@ -1009,7 +1120,8 @@
             "Wraith, The"
         ],
         "requires" :  
-            "|Shadowborn|"
+            "|Shadowborn|",
+        "region": "perks"
     },
     {
         "name": "Shattered Hope Victory",
@@ -1018,7 +1130,8 @@
             "Base Perks"
         ],
         "requires" :  
-            "|Shattered Hope|"
+            "|Shattered Hope|",
+        "region": "perks"
     },
     {
         "name": "Sloppy Butcher Victory",
@@ -1027,7 +1140,8 @@
             "Base Perks"
         ],
         "requires" :  
-            "|Sloppy Butcher|"
+            "|Sloppy Butcher|",
+        "region": "perks"
     },
     {
         "name": "Spies from the Shadows Victory",
@@ -1036,7 +1150,8 @@
             "Base Perks"
         ],
         "requires" :  
-            "|Spies from the Shadows|"
+            "|Spies from the Shadows|",
+        "region": "perks"
     },
     {
         "name": "Spirit Fury Victory",
@@ -1045,7 +1160,8 @@
             "Spirit, The"
         ],
         "requires" :  
-            "|Spirit Fury|"
+            "|Spirit Fury|",
+        "region": "perks"
     },
     {
         "name": "Starstruck Victory",
@@ -1054,7 +1170,8 @@
             "Trickster, The"
         ],
         "requires" :  
-            "|Starstruck|"
+            "|Starstruck|",
+        "region": "perks"
     },
     {
         "name": "Stridor Victory",
@@ -1063,7 +1180,8 @@
             "Nurse, The"
         ],
         "requires" :  
-            "|Stridor|"
+            "|Stridor|",
+        "region": "perks"
     },
     {
         "name": "Superior Anatomy Victory",
@@ -1072,7 +1190,8 @@
             "Mastermind, The"
         ],
         "requires" :  
-            "|Superior Anatomy|"
+            "|Superior Anatomy|",
+        "region": "perks"
     },
     {
         "name": "Surge Victory",
@@ -1081,7 +1200,8 @@
             "Demogorgon, The"
         ],
         "requires" :  
-            "|Surge|"
+            "|Surge|",
+        "region": "perks"
     },
     {
         "name": "Surveillance Victory",
@@ -1090,7 +1210,8 @@
             "Pig, The"
         ],
         "requires" :  
-            "|Surveillance|"
+            "|Surveillance|",
+        "region": "perks"
     },
     {
         "name": "THWACK! Victory",
@@ -1099,7 +1220,8 @@
             "Skull Merchant, The"
         ],
         "requires" :  
-            "|THWACK!|"
+            "|THWACK!|",
+        "region": "perks"
     },
     {
         "name": "Terminus Victory",
@@ -1108,7 +1230,8 @@
             "Mastermind, The"
         ],
         "requires" :  
-            "|Terminus|"
+            "|Terminus|",
+        "region": "perks"
     },
     {
         "name": "Territorial Imperative Victory",
@@ -1117,7 +1240,8 @@
             "Huntress, The"
         ],
         "requires" :  
-            "|Territorial Imperative|"
+            "|Territorial Imperative|",
+        "region": "perks"
     },
     {
         "name": "Thanatophobia Victory",
@@ -1126,7 +1250,8 @@
             "Nurse, The"
         ],
         "requires" :  
-            "|Thanatophobia|"
+            "|Thanatophobia|",
+        "region": "perks"
     },
     {
         "name": "The Animatronic Victory",
@@ -1135,7 +1260,8 @@
             "Animatronic, The"
         ],
         "requires" :  
-            "|The Animatronic|"
+            "|The Animatronic|",
+        "region": "killers"
     },
     {
         "name": "The Animatronic Victory Token",
@@ -1147,7 +1273,8 @@
             "|The Animatronic|",
         "place_item": [
             "The Animatronic Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Artist Victory",
@@ -1156,7 +1283,8 @@
             "Artist, The"
         ],
         "requires" :  
-            "|The Artist|"
+            "|The Artist|",
+        "region": "killers"
     },
     {
         "name": "The Artist Victory Token",
@@ -1168,7 +1296,8 @@
             "|The Artist|",
         "place_item": [
             "The Artist Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Blight Victory",
@@ -1177,7 +1306,8 @@
             "Blight, The"
         ],
         "requires" :  
-            "|The Blight|"
+            "|The Blight|",
+        "region": "killers"
     },
     {
         "name": "The Blight Victory Token",
@@ -1189,7 +1319,8 @@
             "|The Blight|",
         "place_item": [
             "The Blight Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Cannibal Victory",
@@ -1198,7 +1329,8 @@
             "Cannibal, The"
         ],
         "requires" :  
-            "|The Cannibal|"
+            "|The Cannibal|",
+        "region": "killers"
     },
     {
         "name": "The Cannibal Victory Token",
@@ -1210,7 +1342,8 @@
             "|The Cannibal|",
         "place_item": [
             "The Cannibal Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Cenobite Victory",
@@ -1219,7 +1352,8 @@
             "Cenobite, The"
         ],
         "requires" :  
-            "|The Cenobite|"
+            "|The Cenobite|",
+        "region": "killers"
     },
     {
         "name": "The Cenobite Victory Token",
@@ -1231,7 +1365,8 @@
             "|The Cenobite|",
         "place_item": [
             "The Cenobite Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Clown Victory",
@@ -1240,7 +1375,8 @@
             "Clown, The"
         ],
         "requires" :  
-            "|The Clown|"
+            "|The Clown|",
+        "region": "killers"
     },
     {
         "name": "The Clown Victory Token",
@@ -1252,7 +1388,8 @@
             "|The Clown|",
         "place_item": [
             "The Clown Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Dark Lord Victory",
@@ -1261,7 +1398,8 @@
             "Dark Lord, The"
         ],
         "requires" :  
-            "|The Dark Lord|"
+            "|The Dark Lord|",
+        "region": "killers"
     },
     {
         "name": "The Dark Lord Victory Token",
@@ -1273,7 +1411,8 @@
             "|The Dark Lord|",
         "place_item": [
             "The Dark Lord Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Deathslinger Victory",
@@ -1282,7 +1421,8 @@
             "Deathslinger, The"
         ],
         "requires" :  
-            "|The Deathslinger|"
+            "|The Deathslinger|",
+        "region": "killers"
     },
     {
         "name": "The Deathslinger Victory Token",
@@ -1294,7 +1434,8 @@
             "|The Deathslinger|",
         "place_item": [
             "The Deathslinger Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Demogorgon Victory",
@@ -1303,7 +1444,8 @@
             "Demogorgon, The"
         ],
         "requires" :  
-            "|The Demogorgon|"
+            "|The Demogorgon|",
+        "region": "killers"
     },
     {
         "name": "The Demogorgon Victory Token",
@@ -1315,7 +1457,8 @@
             "|The Demogorgon|",
         "place_item": [
             "The Demogorgon Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Doctor Victory",
@@ -1324,7 +1467,8 @@
             "Doctor, The"
         ],
         "requires" :  
-            "|The Doctor|"
+            "|The Doctor|",
+        "region": "killers"
     },
     {
         "name": "The Doctor Victory Token",
@@ -1336,7 +1480,8 @@
             "|The Doctor|",
         "place_item": [
             "The Doctor Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Dredge Victory",
@@ -1345,7 +1490,8 @@
             "Dredge, The"
         ],
         "requires" :  
-            "|The Dredge|"
+            "|The Dredge|",
+        "region": "killers"
     },
     {
         "name": "The Dredge Victory Token",
@@ -1357,7 +1503,8 @@
             "|The Dredge|",
         "place_item": [
             "The Dredge Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Executioner Victory",
@@ -1366,7 +1513,8 @@
             "Executioner, The"
         ],
         "requires" :  
-            "|The Executioner|"
+            "|The Executioner|",
+        "region": "killers"
     },
     {
         "name": "The Executioner Victory Token",
@@ -1378,7 +1526,8 @@
             "|The Executioner|",
         "place_item": [
             "The Executioner Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The First Victory",
@@ -1387,7 +1536,8 @@
             "First, The"
         ],
         "requires" :  
-            "|The First|"
+            "|The First|",
+        "region": "killers"
     },
     {
         "name": "The First Victory Token",
@@ -1399,7 +1549,8 @@
             "|The First|",
         "place_item": [
             "The First Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Ghost Face Victory",
@@ -1408,7 +1559,8 @@
             "Ghost Face, The"
         ],
         "requires" :  
-            "|The Ghost Face|"
+            "|The Ghost Face|",
+        "region": "killers"
     },
     {
         "name": "The Ghost Face Victory Token",
@@ -1420,7 +1572,8 @@
             "|The Ghost Face|",
         "place_item": [
             "The Ghost Face Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Ghoul Victory",
@@ -1429,7 +1582,8 @@
             "Ghoul, The"
         ],
         "requires" :  
-            "|The Ghoul|"
+            "|The Ghoul|",
+        "region": "killers"
     },
     {
         "name": "The Ghoul Victory Token",
@@ -1441,7 +1595,8 @@
             "|The Ghoul|",
         "place_item": [
             "The Ghoul Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Good Guy Victory",
@@ -1450,7 +1605,8 @@
             "Good Guy, The"
         ],
         "requires" :  
-            "|The Good Guy|"
+            "|The Good Guy|",
+        "region": "killers"
     },
     {
         "name": "The Good Guy Victory Token",
@@ -1462,7 +1618,8 @@
             "|The Good Guy|",
         "place_item": [
             "The Good Guy Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Hag Victory",
@@ -1471,7 +1628,8 @@
             "Hag, The"
         ],
         "requires" :  
-            "|The Hag|"
+            "|The Hag|",
+        "region": "killers"
     },
     {
         "name": "The Hag Victory Token",
@@ -1483,7 +1641,8 @@
             "|The Hag|",
         "place_item": [
             "The Hag Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Hillbilly Victory",
@@ -1492,7 +1651,8 @@
             "Hillbilly, The"
         ],
         "requires" :  
-            "|The Hillbilly|"
+            "|The Hillbilly|",
+        "region": "killers"
     },
     {
         "name": "The Hillbilly Victory Token",
@@ -1504,7 +1664,8 @@
             "|The Hillbilly|",
         "place_item": [
             "The Hillbilly Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Houndmaster Victory",
@@ -1513,7 +1674,8 @@
             "Houndmaster, The"
         ],
         "requires" :  
-            "|The Houndmaster|"
+            "|The Houndmaster|",
+        "region": "killers"
     },
     {
         "name": "The Houndmaster Victory Token",
@@ -1525,7 +1687,8 @@
             "|The Houndmaster|",
         "place_item": [
             "The Houndmaster Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Huntress Victory",
@@ -1534,7 +1697,8 @@
             "Huntress, The"
         ],
         "requires" :  
-            "|The Huntress|"
+            "|The Huntress|",
+        "region": "killers"
     },
     {
         "name": "The Huntress Victory Token",
@@ -1546,7 +1710,8 @@
             "|The Huntress|",
         "place_item": [
             "The Huntress Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Knight Victory",
@@ -1555,7 +1720,8 @@
             "Knight, The"
         ],
         "requires" :  
-            "|The Knight|"
+            "|The Knight|",
+        "region": "killers"
     },
     {
         "name": "The Knight Victory Token",
@@ -1567,7 +1733,8 @@
             "|The Knight|",
         "place_item": [
             "The Knight Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Krasue Victory",
@@ -1576,7 +1743,8 @@
             "Krasue, The"
         ],
         "requires" :
-            "|The Krasue|"
+            "|The Krasue|",
+        "region": "killers"
     },
     {
         "name": "The Krasue Victory Token",
@@ -1588,7 +1756,8 @@
             "|The Krasue|",
         "place_item": [
             "The Krasue Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Legion Victory",
@@ -1597,7 +1766,8 @@
             "Legion, The"
         ],
         "requires" :  
-            "|The Legion|"
+            "|The Legion|",
+        "region": "killers"
     },
     {
         "name": "The Legion Victory Token",
@@ -1609,7 +1779,8 @@
             "|The Legion|",
         "place_item": [
             "The Legion Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Lich Victory",
@@ -1618,7 +1789,8 @@
             "Lich, The"
         ],
         "requires" :  
-            "|The Lich|"
+            "|The Lich|",
+        "region": "killers"
     },
     {
         "name": "The Lich Victory Token",
@@ -1630,7 +1802,8 @@
             "|The Lich|",
         "place_item": [
             "The Lich Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Mastermind Victory",
@@ -1639,7 +1812,8 @@
             "Mastermind, The"
         ],
         "requires" :  
-            "|The Mastermind|"
+            "|The Mastermind|",
+        "region": "killers"
     },
     {
         "name": "The Mastermind Victory Token",
@@ -1651,7 +1825,8 @@
             "|The Mastermind|",
         "place_item": [
             "The Mastermind Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Nemesis Victory",
@@ -1660,7 +1835,8 @@
             "Nemesis, The"
         ],
         "requires" :  
-            "|The Nemesis|"
+            "|The Nemesis|",
+        "region": "killers"
     },
     {
         "name": "The Nemesis Victory Token",
@@ -1672,7 +1848,8 @@
             "|The Nemesis|",
         "place_item": [
             "The Nemesis Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Nightmare Victory",
@@ -1681,7 +1858,8 @@
             "Nightmare, The"
         ],
         "requires" :  
-            "|The Nightmare|"
+            "|The Nightmare|",
+        "region": "killers"
     },
     {
         "name": "The Nightmare Victory Token",
@@ -1693,7 +1871,8 @@
             "|The Nightmare|",
         "place_item": [
             "The Nightmare Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Nurse Victory",
@@ -1702,7 +1881,8 @@
             "Nurse, The"
         ],
         "requires" :  
-            "|The Nurse|"
+            "|The Nurse|",
+        "region": "killers"
     },
     {
         "name": "The Nurse Victory Token",
@@ -1714,7 +1894,8 @@
             "|The Nurse|",
         "place_item": [
             "The Nurse Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Oni Victory",
@@ -1723,7 +1904,8 @@
             "Oni, The"
         ],
         "requires" :  
-            "|The Oni|"
+            "|The Oni|",
+        "region": "killers"
     },
     {
         "name": "The Oni Victory Token",
@@ -1735,7 +1917,8 @@
             "|The Oni|",
         "place_item": [
             "The Oni Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Onryo Victory",
@@ -1744,7 +1927,8 @@
             "Onryo, The"
         ],
         "requires" :  
-            "|The Onryo|"
+            "|The Onryo|",
+        "region": "killers"
     },
     {
         "name": "The Onryo Victory Token",
@@ -1756,7 +1940,8 @@
             "|The Onryo|",
         "place_item": [
             "The Onryo Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Pig Victory",
@@ -1765,7 +1950,8 @@
             "Pig, The"
         ],
         "requires" :  
-            "|The Pig|"
+            "|The Pig|",
+        "region": "killers"
     },
     {
         "name": "The Pig Victory Token",
@@ -1777,7 +1963,8 @@
             "|The Pig|",
         "place_item": [
             "The Pig Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Plague Victory",
@@ -1786,7 +1973,8 @@
             "Plague, The"
         ],
         "requires" :  
-            "|The Plague|"
+            "|The Plague|",
+        "region": "killers"
     },
     {
         "name": "The Plague Victory Token",
@@ -1798,7 +1986,8 @@
             "|The Plague|",
         "place_item": [
             "The Plague Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Shape Victory",
@@ -1807,7 +1996,8 @@
             "Shape, The"
         ],
         "requires" :  
-            "|The Shape|"
+            "|The Shape|",
+        "region": "killers"
     },
     {
         "name": "The Shape Victory Token",
@@ -1819,7 +2009,8 @@
             "|The Shape|",
         "place_item": [
             "The Shape Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Singularity Victory",
@@ -1828,7 +2019,8 @@
             "Singularity, The"
         ],
         "requires" :  
-            "|The Singularity|"
+            "|The Singularity|",
+        "region": "killers"
     },
     {
         "name": "The Singularity Victory Token",
@@ -1840,7 +2032,8 @@
             "|The Singularity|",
         "place_item": [
             "The Singularity Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Skull Merchant Victory",
@@ -1849,7 +2042,8 @@
             "Skull Merchant, The"
         ],
         "requires" :  
-            "|The Skull Merchant|"
+            "|The Skull Merchant|",
+        "region": "killers"
     },
     {
         "name": "The Skull Merchant Victory Token",
@@ -1861,7 +2055,8 @@
             "|The Skull Merchant|",
         "place_item": [
             "The Skull Merchant Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Spirit Victory",
@@ -1870,7 +2065,8 @@
             "Spirit, The"
         ],
         "requires" :  
-            "|The Spirit|"
+            "|The Spirit|",
+        "region": "killers"
     },
     {
         "name": "The Spirit Victory Token",
@@ -1882,7 +2078,8 @@
             "|The Spirit|",
         "place_item": [
             "The Spirit Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Trapper Victory",
@@ -1891,7 +2088,8 @@
             "Trapper, The"
         ],
         "requires" :  
-            "|The Trapper|"
+            "|The Trapper|",
+        "region": "killers"
     },
     {
         "name": "The Trapper Victory Token",
@@ -1903,7 +2101,8 @@
             "|The Trapper|",
         "place_item": [
             "The Trapper Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Trickster Victory",
@@ -1912,7 +2111,8 @@
             "Trickster, The"
         ],
         "requires" :  
-            "|The Trickster|"
+            "|The Trickster|",
+        "region": "killers"
     },
     {
         "name": "The Trickster Victory Token",
@@ -1924,7 +2124,8 @@
             "|The Trickster|",
         "place_item": [
             "The Trickster Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Twins Victory",
@@ -1933,7 +2134,8 @@
             "Twins, The"
         ],
         "requires" :  
-            "|The Twins|"
+            "|The Twins|",
+        "region": "killers"
     },
     {
         "name": "The Twins Victory Token",
@@ -1945,7 +2147,8 @@
             "|The Twins|",
         "place_item": [
             "The Twins Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Unknown Victory",
@@ -1954,7 +2157,8 @@
             "Unknown, The"
         ],
         "requires" :  
-            "|The Unknown|"
+            "|The Unknown|",
+        "region": "killers"
     },
     {
         "name": "The Unknown Victory Token",
@@ -1966,7 +2170,8 @@
             "|The Unknown|",
         "place_item": [
             "The Unknown Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Wraith Victory",
@@ -1975,7 +2180,8 @@
             "Wraith, The"
         ],
         "requires" :  
-            "|The Wraith|"
+            "|The Wraith|",
+        "region": "killers"
     },
     {
         "name": "The Wraith Victory Token",
@@ -1987,7 +2193,8 @@
             "|The Wraith|",
         "place_item": [
             "The Wraith Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "The Xenomorph Victory",
@@ -1996,7 +2203,8 @@
             "Xenomorph, The"
         ],
         "requires" :  
-            "|The Xenomorph|"
+            "|The Xenomorph|",
+        "region": "killers"
     },
     {
         "name": "The Xenomorph Victory Token",
@@ -2008,7 +2216,8 @@
             "|The Xenomorph|",
         "place_item": [
             "The Xenomorph Victory Token"
-        ]
+        ],
+        "region": "killers"
     },
     {
         "name": "Thrilling Tremors Victory",
@@ -2017,7 +2226,8 @@
             "Ghost Face, The"
         ],
         "requires" :  
-            "|Thrilling Tremors|"
+            "|Thrilling Tremors|",
+        "region": "perks"
     },
     {
         "name": "Tinkerer Victory",
@@ -2026,7 +2236,8 @@
             "Hillbilly, The"
         ],
         "requires" :  
-            "|Tinkerer|"
+            "|Tinkerer|",
+        "region": "perks"
     },
     {
         "name": "Trail of Torment Victory",
@@ -2035,7 +2246,8 @@
             "Executioner, The"
         ],
         "requires" :  
-            "|Trail of Torment|"
+            "|Trail of Torment|",
+        "region": "perks"
     },
     {
         "name": "Turn Back the Clock Victory",
@@ -2044,7 +2256,8 @@
             "First, The"
         ],
         "requires" :  
-            "|Turn Back the Clock|"
+            "|Turn Back the Clock|",
+        "region": "perks"
     },
     {
         "name": "Ultimate Weapon Victory",
@@ -2053,7 +2266,8 @@
             "Xenomorph, The"
         ],
         "requires" :  
-            "|Ultimate Weapon|"
+            "|Ultimate Weapon|",
+        "region": "perks"
     },
     {
         "name": "Unbound Victory",
@@ -2062,7 +2276,8 @@
             "Unknown, The"
         ],
         "requires" :  
-            "|Unbound|"
+            "|Unbound|",
+        "region": "perks"
     },
     {
         "name": "Undone Victory",
@@ -2071,7 +2286,8 @@
             "Unknown, The"
         ],
         "requires" :  
-            "|Undone|"
+            "|Undone|",
+        "region": "perks"
     },
     {
         "name": "Unforeseen Victory",
@@ -2080,7 +2296,8 @@
             "Unknown, The"
         ],
         "requires" :  
-            "|Unforeseen|"
+            "|Unforeseen|",
+        "region": "perks"
     },
     {
         "name": "Unnerving Presence Victory",
@@ -2089,7 +2306,8 @@
             "Trapper, The"
         ],
         "requires" :  
-            "|Unnerving Presence|"
+            "|Unnerving Presence|",
+        "region": "perks"
     },
     {
         "name": "Unrelenting Victory",
@@ -2098,7 +2316,8 @@
             "Base Perks"
         ],
         "requires" :  
-            "|Unrelenting|"
+            "|Unrelenting|",
+        "region": "perks"
     },
     {
         "name": "Wandering Eye Victory",
@@ -2107,7 +2326,8 @@
             "Krasue, The"
         ],
         "requires" :  
-            "|Wandering Eye|"
+            "|Wandering Eye|",
+        "region": "perks"
     },
     {
         "name": "Weave Attunement Victory",
@@ -2116,7 +2336,8 @@
             "Lich, The"
         ],
         "requires" :  
-            "|Weave Attunement|"
+            "|Weave Attunement|",
+        "region": "perks"
     },
     {
         "name": "Whispers Victory",
@@ -2125,7 +2346,8 @@
             "Base Perks"
         ],
         "requires" :  
-            "|Whispers|"
+            "|Whispers|",
+        "region": "perks"
     },
     {
         "name": "Zanshin Tactics Victory",
@@ -2134,6 +2356,7 @@
             "Oni, The"
         ],
         "requires" :  
-            "|Zanshin Tactics|"
+            "|Zanshin Tactics|",
+        "region": "perks"
     }
 ]

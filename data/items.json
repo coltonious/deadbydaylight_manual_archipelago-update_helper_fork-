@@ -1,5 +1,13 @@
 [
     {
+        "name": "-1 Hook Required For Victory",
+        "category": [
+            "Other"
+        ],
+        "useful": true,
+        "quantity": 4
+    },
+    {
         "name": "A Nurse's Calling",
         "category": [
             "Perk",
@@ -328,7 +336,7 @@
         "progression": true
     },
     {
-        "name": "furtive Chase",
+        "name": "Furtive Chase",
         "category": [
             "Perk",
             "Ghost Face, The"

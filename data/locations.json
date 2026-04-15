@@ -321,7 +321,7 @@
         "name": "Enduring Victory",
         "category": [
             "Perk",
-            "Hillbilly, The|"
+            "Hillbilly, The"
         ],
         "requires" :  
             "|Enduring|",
@@ -354,13 +354,13 @@
         "region": "perks"
     },
     {
-        "name": "Scourge Hook: Floods of Rage Victory",
+        "name": "Scourge Hook - Floods of Rage Victory",
         "category": [
             "Perk",
             "Onryo, The"
         ],
         "requires" :  
-            "|Scourge Hook: Floods of Rage|",
+            "|Scourge Hook - Floods of Rage|",
         "region": "perks"
     },
     {
@@ -454,13 +454,13 @@
         "region": "perks"
     },
     {
-        "name": "Scourge Hook: Gift of Pain / Weeping Wounds Victory",
+        "name": "Scourge Hook - Gift of Pain / Weeping Wounds Victory",
         "category": [
             "Perk",
             "Base Perks"
         ],
         "requires" :  
-            "|Scourge Hook: Gift of Pain / Weeping Wounds|",
+            "|Scourge Hook - Gift of Pain / Weeping Wounds|",
         "region": "perks"
     },
     {
@@ -474,13 +474,13 @@
         "region": "perks"
     },
     {
-        "name": "Scourge Hook: Hangman's Trick Victory",
+        "name": "Scourge Hook - Hangman's Trick Victory",
         "category": [
             "Perk",
             "Pig, The"
         ],
         "requires" :  
-            "|Scourge Hook: Hangman's Trick|",
+            "|Scourge Hook - Hangman's Trick|",
         "region": "perks"
     },
     {
@@ -504,193 +504,193 @@
         "region": "perks"
     },
     {
-        "name": "Hex: Blood Favor Victory",
+        "name": "Hex -  Blood Favor Victory",
         "category": [
             "Perk",
             "Blight, The"
         ],
         "requires" :  
-            "|Hex: Blood Favor|",
+            "|Hex -  Blood Favor|",
         "region": "perks"
     },
     {
-        "name": "Hex: Crowd Control Victory",
+        "name": "Hex -  Crowd Control Victory",
         "category": [
             "Perk",
             "Trickster, The"
         ],
         "requires" :  
-            "|Hex: Crowd Control|",
+            "|Hex -  Crowd Control|",
         "region": "perks"
     },
     {
-        "name": "Hex: Devour Hope Victory",
+        "name": "Hex -  Devour Hope Victory",
         "category": [
             "Perk",
             "Hag, The"
         ],
         "requires" :  
-            "|Hex: Devour Hope|",
+            "|Hex -  Devour Hope|",
         "region": "perks"
     },
     {
-        "name": "Hex: Face the Darkness Victory",
+        "name": "Hex -  Face the Darkness Victory",
         "category": [
             "Perk",
             "Knight, The"
         ],
         "requires" :  
-            "|Hex: Face the Darkness|",
+            "|Hex -  Face the Darkness|",
         "region": "perks"
     },
     {
-        "name": "Hex: Haunted Ground Victory",
+        "name": "Hex -  Haunted Ground Victory",
         "category": [
             "Perk",
             "Spirit, The"
         ],
         "requires" :  
-            "|Hex: Haunted Ground|",
+            "|Hex -  Haunted Ground|",
         "region": "perks"
     },
     {
-        "name": "Hex: Hive Mind",
+        "name": "Hex -  Hive Mind",
         "category": [
             "Perk",
             "First, The"
         ],
         "requires" :  
-            "|Hex: Hive Mind|",
+            "|Hex -  Hive Mind|",
         "region": "perks"
     },
     {
-        "name": "Hex: Huntress Lullaby Victory",
+        "name": "Hex -  Huntress Lullaby Victory",
         "category": [
             "Perk",
             "Huntress, The"
         ],
         "requires" :  
-            "|Hex: Huntress Lullaby|",
+            "|Hex -  Huntress Lullaby|",
         "region": "perks"
     },
     {
-        "name": "Hex: No One Escapes Death Victory",
+        "name": "Hex -  No One Escapes Death Victory",
         "category": [
             "Perk",
             "Base Perks"
         ],
         "requires" :  
-            "|Hex: No One Escapes Death|",
+            "|Hex -  No One Escapes Death|",
         "region": "perks"
     },
     {
-        "name": "Hex: Nothing But Misery Victory",
+        "name": "Hex -  Nothing But Misery Victory",
         "category": [
             "Perk",
             "Ghoul, The"
         ],
         "requires" :  
-            "|Hex: Nothing But Misery|",
+            "|Hex -  Nothing But Misery|",
         "region": "perks"
     },
     {
-        "name": "Hex: Overture of Doom victory",
+        "name": "Hex -  Overture of Doom victory",
         "category": [
             "Perk",
             "Krasue, The"
         ],
         "requires" :  
-            "|Hex: Overture of Doom|",
+            "|Hex -  Overture of Doom|",
         "region": "perks"
     },
     {
-        "name": "Hex: Pentimento Victory",
+        "name": "Hex -  Pentimento Victory",
         "category": [
             "Perk",
             "Artist, The"
         ],
         "requires" :  
-            "|Hex: Pentimento|",
+            "|Hex -  Pentimento|",
         "region": "perks"
     },
     {
-        "name": "Hex: Plaything / Fortune's Fool Victory",
+        "name": "Hex -  Plaything / Fortune's Fool Victory",
         "category": [
             "Perk",
             "Base Perks"
         ],
         "requires" :  
-            "|Hex: Plaything / Fortune's Fool|",
+            "|Hex -  Plaything / Fortune's Fool|",
         "region": "perks"
     },
     {
-        "name": "Hex: Retribution Victory",
+        "name": "Hex -  Retribution Victory",
         "category": [
             "Perk",
             "Deathslinger, The"
         ],
         "requires" :  
-            "|Hex: Retribution|",
+            "|Hex -  Retribution|",
         "region": "perks"
     },
     {
-        "name": "Hex: Ruin Victory",
+        "name": "Hex -  Ruin Victory",
         "category": [
             "Perk",
             "Hag, The"
         ],
         "requires" :  
-            "|Hex: Ruin|",
+            "|Hex -  Ruin|",
         "region": "perks"
     },
     {
-        "name": "Hex: The Third Seal Victory",
+        "name": "Hex -  The Third Seal Victory",
         "category": [
             "Perk",
             "Hag, The"
         ],
         "requires" :  
-            "|Hex: The Third Seal|",
+            "|Hex -  The Third Seal|",
         "region": "perks"
     },
     {
-        "name": "Hex: Thrill of the Hunt Victory",
+        "name": "Hex -  Thrill of the Hunt Victory",
         "category": [
             "Perk",
             "Base Perks"
         ],
         "requires" :  
-            "|Hex: Thrill of the Hunt|",
+            "|Hex -  Thrill of the Hunt|",
         "region": "perks"
     },
     {
-        "name": "Hex: Two Can Play Victory",
+        "name": "Hex -  Two Can Play Victory",
         "category": [
             "Perk",
             "Good Guy, The"
         ],
         "requires" :  
-            "|Hex: Two Can Play|",
+            "|Hex -  Two Can Play|",
         "region": "perks"
     },
     {
-        "name": "Hex: Undying Victory",
+        "name": "Hex -  Undying Victory",
         "category": [
             "Perk",
             "Blight, The"
         ],
         "requires" :  
-            "|Hex: Undying|",
+            "|Hex -  Undying|",
         "region": "perks"
     },
     {
-        "name": "Hex: Wretched Fate Victory",
+        "name": "Hex -  Wretched Fate Victory",
         "category": [
             "Perk",
             "Dark Lord, The"
         ],
         "requires" :  
-            "|Hex: Wretched Fate|",
+            "|Hex -  Wretched Fate|",
         "region": "perks"
     },
     {
@@ -784,13 +784,13 @@
         "region": "perks"
     },
     {
-        "name": "Scourge Hook: Jagged Compass Victory",
+        "name": "Scourge Hook - Jagged Compass Victory",
         "category": [
             "Perk",
             "Houndmaster, The"
         ],
         "requires" :  
-            "|Scourge Hook: Jagged Compass|",
+            "|Scourge Hook - Jagged Compass|",
         "region": "perks"
     },
     {
@@ -904,13 +904,13 @@
         "region": "perks"
     },
     {
-        "name": "Scourge Hook: Monstrous Shrine Victory",
+        "name": "Scourge Hook - Monstrous Shrine Victory",
         "category": [
             "Perk",
             "Base Perks"
         ],
         "requires" :  
-            "|Scourge Hook: Monstrous Shrine|",
+            "|Scourge Hook - Monstrous Shrine|",
         "region": "perks"
     },
     {
@@ -994,13 +994,13 @@
         "region": "perks"
     },
     {
-        "name": "Pain Resonance Victory",
+        "name": "Scourge Hook - Pain Resonance Victory",
         "category": [
             "Perk",
             "Artist, The"
         ],
         "requires" :  
-            "|Pain Resonance|",
+            "|Scourge Hook - Pain Resonance|",
         "region": "perks"
     },
     {

@@ -219,5 +219,10 @@
         "yaml_option": [
             "the_first"
         ]
+    },
+    "Slasher, The": {
+        "yaml_option": [
+            "the_slasher"
+        ]
     }
 }

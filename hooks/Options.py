@@ -32,7 +32,7 @@ class TotalCharactersToWinWith(Range):
 
     display_name = "Number of characters to beat the game with before victory"
     range_start = 3
-    range_end = 39
+    range_end = 43
     default = 20
 
 
@@ -296,6 +296,10 @@ class TheKrasue(DefaultOnToggle):
 class TheFirst(DefaultOnToggle):
     """Include The First and their perks (Turn Back the Clock, Secret Project, Hex: Hive Mind) as items and locations"""
     display_name = "Include The First"
+
+class TheSlasher(DefaultOnToggle):
+    """Include The Slasher and their perks (Hex: Scared to Death, Rampage, Silent Shadow) as items and locations"""
+    display_name = "Include The Slasher"
 
 # end generated
 

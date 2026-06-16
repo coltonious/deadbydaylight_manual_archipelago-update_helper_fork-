@@ -408,7 +408,7 @@
         "progression": true
     },
     {
-        "name": "Hex -  Blood Favor",
+        "name": "Hex - Blood Favor",
         "category": [
             "Perk",
             "Blight, The"
@@ -416,7 +416,7 @@
         "progression": true
     },
     {
-        "name": "Hex -  Crowd Control",
+        "name": "Hex - Crowd Control",
         "category": [
             "Perk",
             "Trickster, The"
@@ -424,7 +424,7 @@
         "progression": true
     },
     {
-        "name": "Hex -  Devour Hope",
+        "name": "Hex - Devour Hope",
         "category": [
             "Perk",
             "Hag, The"
@@ -432,7 +432,7 @@
         "progression": true
     },
     {
-        "name": "Hex -  Face the Darkness",
+        "name": "Hex - Face the Darkness",
         "category": [
             "Perk",
             "Knight, The"
@@ -440,7 +440,7 @@
         "progression": true
     },
     {
-        "name": "Hex -  Haunted Ground",
+        "name": "Hex - Haunted Ground",
         "category": [
             "Perk",
             "Spirit, The"
@@ -448,7 +448,7 @@
         "progression": true
     },
     {
-        "name": "Hex -  Hive Mind",
+        "name": "Hex - Hive Mind",
         "category": [
             "Perk",
             "First, The"
@@ -456,7 +456,7 @@
         "progression": true
     },
     {
-        "name": "Hex -  Huntress Lullaby",
+        "name": "Hex - Huntress Lullaby",
         "category": [
             "Perk",
             "Huntress, The"
@@ -464,7 +464,7 @@
         "progression": true
     },
     {
-        "name": "Hex -  No One Escapes Death",
+        "name": "Hex - No One Escapes Death",
         "category": [
             "Base Perks",
             "Perk"
@@ -472,7 +472,7 @@
         "progression": true
     },
     {
-        "name": "Hex -  Nothing But Misery",
+        "name": "Hex - Nothing But Misery",
         "category": [
             "Perk",
             "Ghoul, The"
@@ -480,7 +480,7 @@
         "progression": true
     },
     {
-        "name": "Hex -  Overture of Doom",
+        "name": "Hex - Overture of Doom",
         "category": [
             "Perk",
             "Krasue, The"
@@ -488,7 +488,7 @@
         "progression": true
     },
     {
-        "name": "Hex -  Pentimento",
+        "name": "Hex - Pentimento",
         "category": [
             "Perk",
             "Artist, The"
@@ -496,7 +496,7 @@
         "progression": true
     },
     {
-        "name": "Hex -  Plaything / Fortune's Fool",
+        "name": "Hex - Plaything / Fortune's Fool",
         "category": [
             "Perk",
             "Base Perks"
@@ -504,7 +504,7 @@
         "progression": true
     },
     {
-        "name": "Hex -  Retribution",
+        "name": "Hex - Retribution",
         "category": [
             "Perk",
             "Deathslinger, The"
@@ -512,7 +512,7 @@
         "progression": true
     },
     {
-        "name": "Hex -  Ruin",
+        "name": "Hex - Ruin",
         "category": [
             "Perk",
             "Hag, The"
@@ -520,7 +520,15 @@
         "progression": true
     },
     {
-        "name": "Hex -  The Third Seal",
+        "name": "Hex - Scared to Death",
+        "category": [
+            "Perk",
+            "Slasher, The"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Hex - The Third Seal",
         "category": [
             "Perk",
             "Hag, The"
@@ -528,7 +536,7 @@
         "progression": true
     },
     {
-        "name": "Hex -  Thrill of the Hunt",
+        "name": "Hex - Thrill of the Hunt",
         "category": [
             "Base Perks",
             "Perk"
@@ -536,7 +544,7 @@
         "progression": true
     },
     {
-        "name": "Hex -  Two Can Play",
+        "name": "Hex - Two Can Play",
         "category": [
             "Perk",
             "Good Guy, The"
@@ -544,7 +552,7 @@
         "progression": true
     },
     {
-        "name": "Hex -  Undying",
+        "name": "Hex - Undying",
         "category": [
             "Perk",
             "Blight, The"
@@ -552,7 +560,7 @@
         "progression": true
     },
     {
-        "name": "Hex -  Wretched Fate",
+        "name": "Hex - Wretched Fate",
         "category": [
             "Perk",
             "Dark Lord, The"
@@ -840,6 +848,14 @@
         "progression": true
     },
     {
+        "name": "Rampage",
+        "category": [
+            "Perk",
+            "Slasher, The"
+        ],
+        "progression": true
+    },
+    {
         "name": "Rancor",
         "category": [
             "Perk",
@@ -908,6 +924,14 @@
         "category": [
             "Base Perks",
             "Perk"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Silent Shadow",
+        "category": [
+            "Perk",
+            "Slasher, The"
         ],
         "progression": true
     },
@@ -1564,6 +1588,22 @@
         "category": [
             "Victory Tokens",
             "Skull Merchant, The"
+        ],
+        "progression": true
+    },
+    {
+        "name": "The Slasher",
+        "category": [
+            "Killer",
+            "Slasher, The"
+        ],
+        "progression": true
+    },
+    {
+        "name": "The Slasher Victory Token",
+        "category": [
+            "Victory Tokens",
+            "Slasher, The"
         ],
         "progression": true
     },

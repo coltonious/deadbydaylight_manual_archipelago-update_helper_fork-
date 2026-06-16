@@ -115,6 +115,11 @@ _killers = {
         "Secret Project",
         "Hex: Hive Mind",
     ],
+    "The Slasher": [
+        "Hex: Scared to Death",
+        "Rampage",
+        "Silent Shadow",
+    ]
 }
 
 

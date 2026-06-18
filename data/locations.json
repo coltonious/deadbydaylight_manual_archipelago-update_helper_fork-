@@ -504,193 +504,203 @@
         "region": "perks"
     },
     {
-        "name": "hex - Blood Favor Victory",
+        "name": "Hex - Blood Favor Victory",
         "category": [
             "Perk",
             "Blight, The"
         ],
         "requires" :  
-            "|hex - Blood Favor|",
+            "|Hex - Blood Favor|",
         "region": "perks"
     },
     {
-        "name": "hex - Crowd Control Victory",
+        "name": "Hex - Crowd Control Victory",
         "category": [
             "Perk",
             "Trickster, The"
         ],
         "requires" :  
-            "|hex - Crowd Control|",
+            "|Hex - Crowd Control|",
         "region": "perks"
     },
     {
-        "name": "hex - Devour Hope Victory",
+        "name": "Hex - Devour Hope Victory",
         "category": [
             "Perk",
             "Hag, The"
         ],
         "requires" :  
-            "|hex - Devour Hope|",
+            "|Hex - Devour Hope|",
         "region": "perks"
     },
     {
-        "name": "hex - Face the Darkness Victory",
+        "name": "Hex - Face the Darkness Victory",
         "category": [
             "Perk",
             "Knight, The"
         ],
         "requires" :  
-            "|hex - Face the Darkness|",
+            "|Hex - Face the Darkness|",
         "region": "perks"
     },
     {
-        "name": "hex - Haunted Ground Victory",
+        "name": "Hex - Haunted Ground Victory",
         "category": [
             "Perk",
             "Spirit, The"
         ],
         "requires" :  
-            "|hex - Haunted Ground|",
+            "|Hex - Haunted Ground|",
         "region": "perks"
     },
     {
-        "name": "hex - Hive Mind",
+        "name": "Hex - Hive Mind",
         "category": [
             "Perk",
             "First, The"
         ],
         "requires" :  
-            "|hex - Hive Mind|",
+            "|Hex - Hive Mind|",
         "region": "perks"
     },
     {
-        "name": "hex - Huntress Lullaby Victory",
+        "name": "Hex - Huntress Lullaby Victory",
         "category": [
             "Perk",
             "Huntress, The"
         ],
         "requires" :  
-            "|hex - Huntress Lullaby|",
+            "|Hex - Huntress Lullaby|",
         "region": "perks"
     },
     {
-        "name": "hex - No One Escapes Death Victory",
+        "name": "Hex - No One Escapes Death Victory",
         "category": [
             "Perk",
             "Base Perks"
         ],
         "requires" :  
-            "|hex - No One Escapes Death|",
+            "|Hex - No One Escapes Death|",
         "region": "perks"
     },
     {
-        "name": "hex - Nothing But Misery Victory",
+        "name": "Hex - Nothing But Misery Victory",
         "category": [
             "Perk",
             "Ghoul, The"
         ],
         "requires" :  
-            "|hex - Nothing But Misery|",
+            "|Hex - Nothing But Misery|",
         "region": "perks"
     },
     {
-        "name": "hex - Overture of Doom victory",
+        "name": "Hex - Overture of Doom victory",
         "category": [
             "Perk",
             "Krasue, The"
         ],
         "requires" :  
-            "|hex - Overture of Doom|",
+            "|Hex - Overture of Doom|",
         "region": "perks"
     },
     {
-        "name": "hex - Pentimento Victory",
+        "name": "Hex - Pentimento Victory",
         "category": [
             "Perk",
             "Artist, The"
         ],
         "requires" :  
-            "|hex - Pentimento|",
+            "|Hex - Pentimento|",
         "region": "perks"
     },
     {
-        "name": "hex - Plaything / Fortune's Fool Victory",
+        "name": "Hex - Plaything / Fortune's Fool Victory",
         "category": [
             "Perk",
             "Base Perks"
         ],
         "requires" :  
-            "|hex - Plaything / Fortune's Fool|",
+            "|Hex - Plaything / Fortune's Fool|",
         "region": "perks"
     },
     {
-        "name": "hex - Retribution Victory",
+        "name": "Hex - Retribution Victory",
         "category": [
             "Perk",
             "Deathslinger, The"
         ],
         "requires" :  
-            "|hex - Retribution|",
+            "|Hex - Retribution|",
         "region": "perks"
     },
     {
-        "name": "hex - Ruin Victory",
+        "name": "Hex - Ruin Victory",
         "category": [
             "Perk",
             "Hag, The"
         ],
         "requires" :  
-            "|hex - Ruin|",
+            "|Hex - Ruin|",
         "region": "perks"
     },
     {
-        "name": "hex - The Third Seal Victory",
+        "name": "Hex - Scared to Death Victory",
+        "category":[
+            "Perk",
+            "Slasher, The"
+        ],
+        "requires" :  
+            "|Hex - Scared to Death|",
+        "region": "perks"
+    },
+    {
+        "name": "Hex - The Third Seal Victory",
         "category": [
             "Perk",
             "Hag, The"
         ],
         "requires" :  
-            "|hex - The Third Seal|",
+            "|Hex - The Third Seal|",
         "region": "perks"
     },
     {
-        "name": "hex - Thrill of the Hunt Victory",
+        "name": "Hex - Thrill of the Hunt Victory",
         "category": [
             "Perk",
             "Base Perks"
         ],
         "requires" :  
-            "|hex - Thrill of the Hunt|",
+            "|Hex - Thrill of the Hunt|",
         "region": "perks"
     },
     {
-        "name": "hex - Two Can Play Victory",
+        "name": "Hex - Two Can Play Victory",
         "category": [
             "Perk",
             "Good Guy, The"
         ],
         "requires" :  
-            "|hex - Two Can Play|",
+            "|Hex - Two Can Play|",
         "region": "perks"
     },
     {
-        "name": "hex - Undying Victory",
+        "name": "Hex - Undying Victory",
         "category": [
             "Perk",
             "Blight, The"
         ],
         "requires" :  
-            "|hex - Undying|",
+            "|Hex - Undying|",
         "region": "perks"
     },
     {
-        "name": "hex - Wretched Fate Victory",
+        "name": "Hex - Wretched Fate Victory",
         "category": [
             "Perk",
             "Dark Lord, The"
         ],
         "requires" :  
-            "|hex - Wretched Fate|",
+            "|Hex - Wretched Fate|",
         "region": "perks"
     },
     {
@@ -1044,6 +1054,16 @@
         "region": "perks"
     },
     {
+        "name": "Rampage Victory",
+        "category": [
+            "Perk",
+            "Slasher, The"
+        ],
+        "requires" :  
+            "|Rampage|",
+        "region": "perks"
+    },
+    {
         "name": "Rancor Victory",
         "category": [
             "Perk",
@@ -1131,6 +1151,16 @@
         ],
         "requires" :  
             "|Shattered Hope|",
+        "region": "perks"
+    },
+    {
+        "name": "Silent Shadow Victory",
+        "category": [
+            "Perk",
+            "Slasher, The"
+        ],
+        "requires" :  
+            "|Silent Shadow|",
         "region": "perks"
     },
     {
@@ -2055,6 +2085,29 @@
             "|The Skull Merchant|",
         "place_item": [
             "The Skull Merchant Victory Token"
+        ],
+        "region": "killers"
+    },
+    {
+        "name": "The Slasher Victory",
+        "category": [
+            "Killer",
+            "Slasher, The"
+        ],
+        "requires" :  
+            "|The Slasher|",
+        "region": "killers"
+    },
+    {
+        "name": "The Slasher Victory Token",
+        "category": [
+            "Killer",
+            "Slasher, The"
+        ],
+        "requires" :  
+            "|The Slasher|",
+        "place_item": [
+            "The Slasher Victory Token"
         ],
         "region": "killers"
     },

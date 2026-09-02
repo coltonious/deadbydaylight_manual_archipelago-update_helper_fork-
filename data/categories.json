@@ -224,5 +224,10 @@
         "yaml_option": [
             "the_slasher"
         ]
+    },
+    "Judgement, The": {
+        "yaml_option": [
+            "the_judgement"
+        ]
     }
 }

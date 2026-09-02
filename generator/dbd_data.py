@@ -119,6 +119,11 @@ _killers = {
         "Hex: Scared to Death",
         "Rampage",
         "Silent Shadow",
+    ],
+    "The Judgement": [
+        "Celestial Witness",
+        "Hex: Under Your Thumb",
+        "Lay Waste"
     ]
 }
 

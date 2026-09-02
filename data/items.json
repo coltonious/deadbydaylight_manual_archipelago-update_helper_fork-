@@ -128,6 +128,14 @@
         "progression": true
     },
     {
+        "name": "Celestial Witness",
+        "category": [
+            "Perk",
+            "Judgement, The"
+        ],
+        "progression": true
+    },
+    {
         "name": "Corrupt Intervention",
         "category": [
             "Perk",
@@ -552,6 +560,14 @@
         "progression": true
     },
     {
+        "name": "Hex - Under Your Thumb",
+        "category": [
+            "Perk",
+            "Judgement, The"
+        ],
+        "progression": true
+    },
+    {
         "name": "Hex - Undying",
         "category": [
             "Perk",
@@ -660,6 +676,14 @@
         "category": [
             "Perk",
             "Lich, The"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Lay Waste",
+        "category": [
+            "Perk",
+            "Judgement, The"
         ],
         "progression": true
     },
@@ -1348,6 +1372,22 @@
         "category": [
             "Victory Tokens",
             "Huntress, The"
+        ],
+        "progression": true
+    },
+    {
+        "name": "The Judgement",
+        "category": [
+            "Killer",
+            "Judgement, The"
+        ],
+        "progression": true
+    },
+    {
+        "name": "The Judgement Victory Token",
+        "category": [
+            "Victory Tokens",
+            "Judgement, The"
         ],
         "progression": true
     },

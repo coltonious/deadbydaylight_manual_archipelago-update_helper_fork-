@@ -1744,6 +1744,29 @@
         "region": "killers"
     },
     {
+        "name": "The Judgement Victory",
+        "category": [
+            "Killer",
+            "Judgement, The"
+        ],
+        "requires" :  
+            "|The Judgement|",
+        "region": "killers"
+    },
+    {
+        "name": "The Judgement Victory Token",
+        "category": [
+            "Killer",
+            "Judgement, The"
+        ],
+        "requires" :  
+            "|The Judgement|",
+        "place_item": [
+            "The Judgement Victory Token"
+        ],
+        "region": "killers"
+    },
+    {
         "name": "The Knight Victory",
         "category": [
             "Killer",

@@ -148,6 +148,16 @@
         "region": "perks"
     },
     {
+        "name": "Celestial Witness Victory",
+        "category": [
+            "Perk",
+            "Judgement, The"
+        ],
+        "requires" :  
+            "|Celestial Witness|",
+        "region": "perks"
+    },
+    {
         "name": "Corrupt Intervention Victory",
         "category": [
             "Perk",
@@ -684,6 +694,16 @@
         "region": "perks"
     },
     {
+        "name": "Hex - Under Your Thumb Victory",
+        "category": [
+            "Perk",
+            "Judgement, The"
+        ],
+        "requires" :  
+            "|Hex - Under Your Thumb|",
+        "region": "perks"
+    },
+    {
         "name": "Hex - Undying Victory",
         "category": [
             "Perk",
@@ -821,6 +841,16 @@
         ],
         "requires" :  
             "|Languid Touch|",
+        "region": "perks"
+    },
+    {
+        "name": "Lay Waste Victory",
+        "category": [
+            "Perk",
+            "Judgement, The"
+        ],
+        "requires" :  
+            "|Lay Waste|",
         "region": "perks"
     },
     {

@@ -574,7 +574,7 @@
         "region": "perks"
     },
     {
-        "name": "Hex - Hive Mind",
+        "name": "Hex - Hive Mind Victory",
         "category": [
             "Perk",
             "First, The"
@@ -614,7 +614,7 @@
         "region": "perks"
     },
     {
-        "name": "Hex - Overture of Doom victory",
+        "name": "Hex - Overture of Doom Victory",
         "category": [
             "Perk",
             "Krasue, The"
@@ -864,13 +864,13 @@
         "region": "perks"
     },
     {
-        "name": "Laghingstock Victory",
+        "name": "Laughingstock Victory",
         "category": [
             "Perk",
             "Terrifier, The"
         ],
         "requires" :  
-            "|Laghingstock|",
+            "|Laughingstock|",
         "region": "perks"
     },
     {

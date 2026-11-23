@@ -32,7 +32,7 @@ class TotalCharactersToWinWith(Range):
 
     display_name = "Number of characters to beat the game with before victory"
     range_start = 3
-    range_end = 44
+    range_end = 45
     default = 20
 
 

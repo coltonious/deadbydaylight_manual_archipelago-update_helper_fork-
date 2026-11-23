@@ -424,6 +424,16 @@
         "region": "perks"
     },
     {
+        "name": "Funny Business Victory",
+        "category": [
+            "Perk",
+            "Terrifier, The"
+        ],
+        "requires" :  
+            "|Funny Business|",
+        "region": "perks"
+    },
+    {
         "name": "Furtive Chase Victory",
         "category": [
             "Perk",
@@ -824,6 +834,16 @@
         "region": "perks"
     },
     {
+        "name": "Kill Spree Victory",
+        "category": [
+            "Perk",
+            "Terrifier, The"
+        ],
+        "requires" :  
+            "|Kill Spree|",
+        "region": "perks"
+    },
+    {
         "name": "Knockout Victory",
         "category": [
             "Perk",
@@ -841,6 +861,16 @@
         ],
         "requires" :  
             "|Languid Touch|",
+        "region": "perks"
+    },
+    {
+        "name": "Laghingstock Victory",
+        "category": [
+            "Perk",
+            "Terrifier, The"
+        ],
+        "requires" :  
+            "|Laghingstock|",
         "region": "perks"
     },
     {
@@ -2184,6 +2214,29 @@
             "|The Spirit|",
         "place_item": [
             "The Spirit Victory Token"
+        ],
+        "region": "killers"
+    },
+    {
+        "name": "The Terrifier Victory",
+        "category": [
+            "Killer",
+            "Terrifier, The"
+        ],
+        "requires" :  
+            "|The Terrifier|",
+        "region": "killers"
+    },
+    {
+        "name": "The Terrifier Victory Token",
+        "category": [
+            "Killer",
+            "Terrifier, The"
+        ],
+        "requires" :  
+            "|The Terrifier|",
+        "place_item": [
+            "The Terrifier Victory Token"
         ],
         "region": "killers"
     },

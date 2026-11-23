@@ -344,6 +344,14 @@
         "progression": true
     },
     {
+        "name": "Funny Business",
+        "category": [
+            "Perk",
+            "Terrifier, The"
+        ],
+        "progression": true
+    },
+    {
         "name": "Furtive Chase",
         "category": [
             "Perk",
@@ -664,6 +672,14 @@
         "progression": true
     },
     {
+        "name": "Kill Spree",
+        "category": [
+            "Perk",
+            "Terrifier, The"
+        ],
+        "progression": true
+    },
+    {
         "name": "Knockout",
         "category": [
             "Perk",
@@ -676,6 +692,14 @@
         "category": [
             "Perk",
             "Lich, The"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Laughingstock",
+        "category": [
+            "Perk",
+            "Terrifier, The"
         ],
         "progression": true
     },
@@ -1660,6 +1684,22 @@
         "category": [
             "Victory Tokens",
             "Spirit, The"
+        ],
+        "progression": true
+    },
+    {
+        "name": "The Terrifier",
+        "category": [
+            "Killer",
+            "Terrifier, The"
+        ],
+        "progression": true
+    },
+    {
+        "name": "The Terrifier Victory Token",
+        "category": [
+            "Victory Tokens",
+            "Terrifier, The"
         ],
         "progression": true
     },
